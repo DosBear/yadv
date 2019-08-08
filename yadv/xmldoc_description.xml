@@ -1,0 +1,2902 @@
+﻿<?xml version="1.0"?>
+<Documents>
+  <Document>
+    <ModeID>1004054E</ModeID>
+    <Name>Result</Name>
+    <Description>Результат</Description>
+  </Document>
+  <Document>
+    <ModeID>1004081E</ModeID>
+    <Name>EPS_DocResponse</Name>
+    <Description>Предоставление документа по запросу ТО</Description>
+  </Document>
+  <Document>
+    <ModeID>1009003E</ModeID>
+    <Name>SertifAForm</Name>
+    <Description>Сертификат о происхождении товаров по форме "А"</Description>
+  </Document>
+  <Document>
+    <ModeID>1009002E</ModeID>
+    <Name>SanitarySertif</Name>
+    <Description>Санитарно-эпидемиологическое заключение (гигиенический сертификат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1009001E</ModeID>
+    <Name>ConformanceSertif</Name>
+    <Description>Сертификат соответствия</Description>
+  </Document>
+  <Document>
+    <ModeID>1009004E</ModeID>
+    <Name>SertifST1Form</Name>
+    <Description>Сертификат о происхождении товаров формы СТ-1</Description>
+  </Document>
+  <Document>
+    <ModeID>1006085E</ModeID>
+    <Name>TransportMeansPassport</Name>
+    <Description>Паспорт транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1006015E</ModeID>
+    <Name>GTDObligation</Name>
+    <Description>Обязательство о подаче таможенной декларации и представлении необходимых документов и сведений</Description>
+  </Document>
+  <Document>
+    <ModeID>1006003E</ModeID>
+    <Name>Inventory</Name>
+    <Description>Опись документов - внешний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006004E</ModeID>
+    <Name>NotifConditionViolation</Name>
+    <Description>Уведомление о несоблюдении условий выпуска товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006005E</ModeID>
+    <Name>ReqCorrectedData</Name>
+    <Description>Требование на корректировку сведений, заявленных в таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006006E</ModeID>
+    <Name>ReqInventoryDoc</Name>
+    <Description>Запрос электронных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006008E</ModeID>
+    <Name>NotifDiscrepancy</Name>
+    <Description>Информация о несоответствии сведений, заявленных в таможенной декларации, сведениям, полученным в результате применения дополнительных форм тамо</Description>
+  </Document>
+  <Document>
+    <ModeID>1006007E</ModeID>
+    <Name>NotifInspection</Name>
+    <Description>Уведомление о принятии решения по проведению таможенного досмотра (осмотра) товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006009E</ModeID>
+    <Name>NotifConsult</Name>
+    <Description>Уведомление о необходимости проведения консультаций с функциональными отделами таможни</Description>
+  </Document>
+  <Document>
+    <ModeID>1006010E</ModeID>
+    <Name>ReqPaperDocs</Name>
+    <Description>Требование на предоставление документов на бумажном носителе</Description>
+  </Document>
+  <Document>
+    <ModeID>1006011E</ModeID>
+    <Name>InqChangeData</Name>
+    <Description>Обращение об изменении, дополнении сведений, заявленных в таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006012E</ModeID>
+    <Name>PermitChangeData</Name>
+    <Description>Разрешение на изменение, дополнение сведений, заявленных в таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006013E</ModeID>
+    <Name>InqRecallGTD</Name>
+    <Description>Обращение об отзыве декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006014E</ModeID>
+    <Name>PermitRecallGTD</Name>
+    <Description>Разрешение на отзыв декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1004015E</ModeID>
+    <Name>RepudRecallGTD</Name>
+    <Description>Запрет на отзыв декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006016E</ModeID>
+    <Name>InqDelayDocs</Name>
+    <Description>Обращение о разрешении представления документов в определенный срок</Description>
+  </Document>
+  <Document>
+    <ModeID>1006018E</ModeID>
+    <Name>DocsObligation</Name>
+    <Description>Обязательство о представлении документов в установленный срок</Description>
+  </Document>
+  <Document>
+    <ModeID>1006019E</ModeID>
+    <Name>NotifAddPayment</Name>
+    <Description>Уведомление о размере требуемого обеспечения уплаты таможенных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1006020E</ModeID>
+    <Name>ReqAcceptPayment</Name>
+    <Description>Требование о предоставлении сведений о поступлении денежных средств на счет таможенного органа</Description>
+  </Document>
+  <Document>
+    <ModeID>1006021E</ModeID>
+    <Name>AcceptPaymentInf</Name>
+    <Description>Сведения о поступлении денежных средств на счет таможенного органа</Description>
+  </Document>
+  <Document>
+    <ModeID>1006017E</ModeID>
+    <Name>PermitDelayDocs</Name>
+    <Description>Разрешение представления документов в установленный срок</Description>
+  </Document>
+  <Document>
+    <ModeID>1007007E</ModeID>
+    <Name>PermitInoTreatment</Name>
+    <Description>Разрешение на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1007004E</ModeID>
+    <Name>InqInoTreatment</Name>
+    <Description>Заявление на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1007008E</ModeID>
+    <Name>RecallInoTreatment</Name>
+    <Description>Отзыв разрешения на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1007009E</ModeID>
+    <Name>RepudInoTreatment</Name>
+    <Description>Отказ в выдаче разрешения на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1006026E</ModeID>
+    <Name>InqProlongDecl</Name>
+    <Description>Заявление на продление срока подачи декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006027E</ModeID>
+    <Name>PermitProlongDecl</Name>
+    <Description>Разрешение на продление срока подачи декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006028E</ModeID>
+    <Name>StopGoodsDec</Name>
+    <Description>Решение о приостановлении выпуска товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006056E</ModeID>
+    <Name>StopGoodsCancel</Name>
+    <Description>Отмена решения о приостановлении выпуска товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1004030E</ModeID>
+    <Name>ErrorDocuments</Name>
+    <Description>Перечень ошибок, выявленных в процессе проведения форматно-логического контроля сведений, заявленных в электронной форме документа</Description>
+  </Document>
+  <Document>
+    <ModeID>1004031E</ModeID>
+    <Name>ConfirmDocsRecip</Name>
+    <Description>Подтверждение получения должностным лицом таможенного органа электронных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006032E</ModeID>
+    <Name>InqFactDecl</Name>
+    <Description>Обращение о подтверждении факта подачи таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006033E</ModeID>
+    <Name>ActInspection</Name>
+    <Description>Акт таможенного досмотра (осмотра)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006034E</ModeID>
+    <Name>RepudDecl</Name>
+    <Description>Отказ в принятии таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006035E</ModeID>
+    <Name>NotifNotDecl</Name>
+    <Description>Уведомление о том, что таможенная декларация считается неподанной</Description>
+  </Document>
+  <Document>
+    <ModeID>1006050E</ModeID>
+    <Name>InfFromActInspection</Name>
+    <Description>Сведения из акта таможенного досмотра (осмотра)</Description>
+  </Document>
+  <Document>
+    <ModeID>1007006E</ModeID>
+    <Name>NotifProlongDocsConsid</Name>
+    <Description>Уведомление о продлении срока рассмотрения документов при рассмотрении вопроса о выдаче разрешения на переработку (ст. 204 п.4 ТК РФ)</Description>
+  </Document>
+  <Document>
+    <ModeID>1007003E</ModeID>
+    <Name>InqChangeInoTreatment</Name>
+    <Description>Обращение на внесение изменений в действующее разрешение на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1007005E</ModeID>
+    <Name>InqProlongInoTreatment</Name>
+    <Description>Заявление на продление сроков переработки товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1007002E</ModeID>
+    <Name>InqChangeInoProd</Name>
+    <Description>Заявление на проведение замены продуктов переработки иностранными товарами</Description>
+  </Document>
+  <Document>
+    <ModeID>1007010E</ModeID>
+    <Name>ReqInoTreatmentDocs</Name>
+    <Description>Требование на предоставление электронного документа, указанного в описи, прилагаемой к заявлению на переработку товаров вне таможенной территори</Description>
+  </Document>
+  <Document>
+    <ModeID>1007001E</ModeID>
+    <Name>InoTreatmentInventory</Name>
+    <Description>Опись, прилагаемая к заявлению на переработку товаров вне таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1006086E</ModeID>
+    <Name>TransportMeansChassisPassport</Name>
+    <Description>Паспорт шасси транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1002007E</ModeID>
+    <Name>Invoice</Name>
+    <Description>Инвойс</Description>
+  </Document>
+  <Document>
+    <ModeID>1002004E</ModeID>
+    <Name>Contract</Name>
+    <Description>Договор (контракт) купли-продажи товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1002003E</ModeID>
+    <Name>CommercialInvoice</Name>
+    <Description>Счет фактура</Description>
+  </Document>
+  <Document>
+    <ModeID>1002014E</ModeID>
+    <Name>SupplementaryContract</Name>
+    <Description>Дополнение (приложение) к контракту</Description>
+  </Document>
+  <Document>
+    <ModeID>1002009E</ModeID>
+    <Name>PackingDocuments</Name>
+    <Description>Упаковочный лист</Description>
+  </Document>
+  <Document>
+    <ModeID>1002012E</ModeID>
+    <Name>ProformInvoice</Name>
+    <Description>Счет проформа</Description>
+  </Document>
+  <Document>
+    <ModeID>1002015E</ModeID>
+    <Name>DealPassport</Name>
+    <Description>Паспорт сделки (ПС)</Description>
+  </Document>
+  <Document>
+    <ModeID>1002001E</ModeID>
+    <Name>BarterTransactionPasport</Name>
+    <Description>Паспорт бартерной сделки</Description>
+  </Document>
+  <Document>
+    <ModeID>1002006E</ModeID>
+    <Name>IndulgenceStatement</Name>
+    <Description>Заявление на предоставление отсрочки (рассрочки) уплаты таможенных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1003101E</ModeID>
+    <Name>AutomobileInsurancePolicy</Name>
+    <Description>Страховой полис гражданского автострахования</Description>
+  </Document>
+  <Document>
+    <ModeID>1003102E</ModeID>
+    <Name>CMR</Name>
+    <Description>Автодорожная накладная</Description>
+  </Document>
+  <Document>
+    <ModeID>1003202E</ModeID>
+    <Name>BillofLading</Name>
+    <Description>Коносамент</Description>
+  </Document>
+  <Document>
+    <ModeID>1003203E</ModeID>
+    <Name>ArrivalCargoDeclaration</Name>
+    <Description>Декларация о грузе при приходе судна</Description>
+  </Document>
+  <Document>
+    <ModeID>1003204E</ModeID>
+    <Name>SailingCargoDeclaration</Name>
+    <Description>Декларация о грузе при отходе судна</Description>
+  </Document>
+  <Document>
+    <ModeID>1003205E</ModeID>
+    <Name>CrewDocuments</Name>
+    <Description>Судовая роль</Description>
+  </Document>
+  <Document>
+    <ModeID>1003201E</ModeID>
+    <Name>GeneralDeclaration</Name>
+    <Description>Общая (генеральная) декларация</Description>
+  </Document>
+  <Document>
+    <ModeID>1003401E</ModeID>
+    <Name>RailwayBill</Name>
+    <Description>Международная железнодорожная накладная по форме СМГС</Description>
+  </Document>
+  <Document>
+    <ModeID>1003302E</ModeID>
+    <Name>GeneralDeclarationAirTransport</Name>
+    <Description>Генеральная авиа декларация</Description>
+  </Document>
+  <Document>
+    <ModeID>1003301E</ModeID>
+    <Name>AirWaybill</Name>
+    <Description>Авиагрузовая накладная</Description>
+  </Document>
+  <Document>
+    <ModeID>1001101E</ModeID>
+    <Name>JuridicalPersonRegistrationCertificate</Name>
+    <Description>Свидетельство о государственной регистрации юридического лица по форме P51001</Description>
+  </Document>
+  <Document>
+    <ModeID>1001102E</ModeID>
+    <Name>TaxOrganRegistrationCertificate</Name>
+    <Description>Свидетельство о постановке на учет в налоговом органе юридического лица</Description>
+  </Document>
+  <Document>
+    <ModeID>1001201E</ModeID>
+    <Name>NaturalPersonRegistrationCertificate</Name>
+    <Description>Свидетельство о государственной регистрации физического лица в качестве индивидуального предпринимателя по форме Р61001</Description>
+  </Document>
+  <Document>
+    <ModeID>1001301E</ModeID>
+    <Name>CertificatDImmatriculation</Name>
+    <Description>Свидетельство о регистрации транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1006043E</ModeID>
+    <Name>ESADout</Name>
+    <Description>Грузовая таможенная декларация - внешний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006107E</ModeID>
+    <Name>ESADout_CU</Name>
+    <Description>Декларация на товары / транзитная декларация</Description>
+  </Document>
+  <Document>
+    <ModeID>1006044E</ModeID>
+    <Name>DTSout</Name>
+    <Description>Внешний формат электронной копии Декларации таможенной стоимости (ДТС)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006112E</ModeID>
+    <Name>DTSout_CU</Name>
+    <Description>Электронная копия ДТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1006045E</ModeID>
+    <Name>KTSout</Name>
+    <Description>Корректировка таможенной стоимости - внешний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006113E</ModeID>
+    <Name>KTSout_CU</Name>
+    <Description>Корректировка таможенной стоимости и таможенных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1006001E</ModeID>
+    <Name>ESADin</Name>
+    <Description>Грузовая таможенная декларация - внутренний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006092E</ModeID>
+    <Name>DTSin</Name>
+    <Description>Внутренний формат электронной копии Декларации таможенной стоимости (ДТС)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006002E</ModeID>
+    <Name>KTSin</Name>
+    <Description>Корректировка таможенной стоимости - внутренний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>SG200001</ModeID>
+    <Name>SG_ConsignmentInfo</Name>
+    <Description>Калининградский транзит</Description>
+  </Document>
+  <Document>
+    <ModeID>1006078E</ModeID>
+    <Name>GTDOutCustomsMark</Name>
+    <Description>Декларация на товары - служебные отметки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006079E</ModeID>
+    <Name>DTSOutCustomsMark</Name>
+    <Description>Декларация таможенной стоимости - служебные отметки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006077E</ModeID>
+    <Name>NotifViolation</Name>
+    <Description>Уведомление о выявленных нарушениях / требование о переходе на общеустановленный порядок оформления</Description>
+  </Document>
+  <Document>
+    <ModeID>1005006E</ModeID>
+    <Name>ArchDocRequest</Name>
+    <Description>Запрос документа из архива</Description>
+  </Document>
+  <Document>
+    <ModeID>1006074E</ModeID>
+    <Name>ReqCloseDeclProc</Name>
+    <Description>Запрос на закрытие предварительной процедуры / процедуры декларирования</Description>
+  </Document>
+  <Document>
+    <ModeID>1004080E</ModeID>
+    <Name>EPS_InfoRequest</Name>
+    <Description>Запрос информации об электронном документе, процедуре/процессе</Description>
+  </Document>
+  <Document>
+    <ModeID>1006082E</ModeID>
+    <Name>TransportMeanCardOut</Name>
+    <Description>Карточка транспортного средства - внешний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006083E</ModeID>
+    <Name>TransportMeanCardIn</Name>
+    <Description>Карточка транспортного средства - внутренний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1004052E</ModeID>
+    <Name>NotifGTDExaminationStart</Name>
+    <Description>Уведомление о начале проверки ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1003104E</ModeID>
+    <Name>TIR_Carnet</Name>
+    <Description>Книжка МДП</Description>
+  </Document>
+  <Document>
+    <ModeID>1002002E</ModeID>
+    <Name>CollectionLetter</Name>
+    <Description>Инкассовое поручение</Description>
+  </Document>
+  <Document>
+    <ModeID>1004073E</ModeID>
+    <Name>ConfirmDeclDocsRecip</Name>
+    <Description>Подтверждение получения декларантом документов из КАСТО.</Description>
+  </Document>
+  <Document>
+    <ModeID>1001103E</ModeID>
+    <Name>CustomsBrokerCertificate</Name>
+    <Description>Свидетельство о включении в Реестр таможенных брокеров</Description>
+  </Document>
+  <Document>
+    <ModeID>1002005E</ModeID>
+    <Name>ExtractFromOrder</Name>
+    <Description>Выписка из приказа о приеме на работу / о переводе на другую работу</Description>
+  </Document>
+  <Document>
+    <ModeID>1002008E</ModeID>
+    <Name>LetterOfAttorney</Name>
+    <Description>Документ, удостоверяющей полномочия лица, составившего ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004053E</ModeID>
+    <Name>NotifGTDExaminationFinish</Name>
+    <Description>Уведомление об окончании проверки ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004051E</ModeID>
+    <Name>NotifGTDRegistration</Name>
+    <Description>Уведомление о регистрации ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1002010E</ModeID>
+    <Name>PaymentDemand</Name>
+    <Description>Платежное требование</Description>
+  </Document>
+  <Document>
+    <ModeID>1002011E</ModeID>
+    <Name>PaymentOrder</Name>
+    <Description>Платежное поручение</Description>
+  </Document>
+  <Document>
+    <ModeID>1004074E</ModeID>
+    <Name>ReqCloseProc</Name>
+    <Description>Запрос на закрытие процедуры</Description>
+  </Document>
+  <Document>
+    <ModeID>1002013E</ModeID>
+    <Name>StatementOfAccount</Name>
+    <Description>Выписка со счета</Description>
+  </Document>
+  <Document>
+    <ModeID>1006089E</ModeID>
+    <Name>GoodsComponentDocuments</Name>
+    <Description>Поставка компонентами - Список компонентов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006094E</ModeID>
+    <Name>CustPaymentsDK</Name>
+    <Description>Документ контроля платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1004001E</ModeID>
+    <Name>RejectDeclReqOperation</Name>
+    <Description>Отказ декларанта от внесения изменений в ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004002E</ModeID>
+    <Name>NotifGoodsTimeOut</Name>
+    <Description>Уведомление об истечении сроков предъявления товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006093E</ModeID>
+    <Name>InstrInspection</Name>
+    <Description>Поручение на досмотр(осмотр)</Description>
+  </Document>
+  <Document>
+    <ModeID>1004005E</ModeID>
+    <Name>AccBalanceReq</Name>
+    <Description>Запрос остатков на платежных поручениях участника ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1004006E</ModeID>
+    <Name>AccBalanceInfo</Name>
+    <Description>Информация об остатках на платежных поручениях участника ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1004003E</ModeID>
+    <Name>ChargeOffReq</Name>
+    <Description>Запрос на списание средств с лицевого счета участник ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1004004E</ModeID>
+    <Name>ChargeOffResult</Name>
+    <Description>Результаты списания средств с лицевого счета участника ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1005001E</ModeID>
+    <Name>ArchAddDocRequest</Name>
+    <Description>Запрос на помещение документа в архив</Description>
+  </Document>
+  <Document>
+    <ModeID>1005002E</ModeID>
+    <Name>ArchCreateRequest</Name>
+    <Description>Запрос на создание электронного архива</Description>
+  </Document>
+  <Document>
+    <ModeID>1005003E</ModeID>
+    <Name>ArchDeleteRequest</Name>
+    <Description>Запрос на удаление электронного архива</Description>
+  </Document>
+  <Document>
+    <ModeID>1005004E</ModeID>
+    <Name>ArchDocDeleteRequest</Name>
+    <Description>Запрос на удаление документа из архива</Description>
+  </Document>
+  <Document>
+    <ModeID>1005005E</ModeID>
+    <Name>ArchDocDocumentsRequest</Name>
+    <Description>Запрос на получение списка документов в архиве</Description>
+  </Document>
+  <Document>
+    <ModeID>1005007E</ModeID>
+    <Name>ArchDocResponse</Name>
+    <Description>Электронный документ из архива декларанта</Description>
+  </Document>
+  <Document>
+    <ModeID>1005008E</ModeID>
+    <Name>ArchDocStatusRequest</Name>
+    <Description>Запрос статуса документа в архиве декларанта</Description>
+  </Document>
+  <Document>
+    <ModeID>1005009E</ModeID>
+    <Name>ArchDocStatusResponse</Name>
+    <Description>Статус документа в архиве</Description>
+  </Document>
+  <Document>
+    <ModeID>1005010E</ModeID>
+    <Name>ArchDocStatusUpdate</Name>
+    <Description>Запрос на изменение статуса документа в архиве</Description>
+  </Document>
+  <Document>
+    <ModeID>1005011E</ModeID>
+    <Name>ArchDocumentDocuments</Name>
+    <Description>Список документов в архиве декларанта</Description>
+  </Document>
+  <Document>
+    <ModeID>1005012E</ModeID>
+    <Name>ArchDocUpdate</Name>
+    <Description>Запрос на замену документа в архиве</Description>
+  </Document>
+  <Document>
+    <ModeID>1005013E</ModeID>
+    <Name>ArchDocuments</Name>
+    <Description>Список архивов декларанта</Description>
+  </Document>
+  <Document>
+    <ModeID>1005014E</ModeID>
+    <Name>ArchDocumentsRequest</Name>
+    <Description>Запрос на получение списка архивов декларанта</Description>
+  </Document>
+  <Document>
+    <ModeID>1002016E</ModeID>
+    <Name>ChargeOffLetter</Name>
+    <Description>Письмо на списание денежных средств со счетов брокера</Description>
+  </Document>
+  <Document>
+    <ModeID>1007013E</ModeID>
+    <Name>CustProcessingInvent</Name>
+    <Description>Опись документов, прилагаемая к заявлению на переработку товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006058E</ModeID>
+    <Name>ED_Container</Name>
+    <Description>Документ-Контейнер</Description>
+  </Document>
+  <Document>
+    <ModeID>1006088E</ModeID>
+    <Name>FreeDoc</Name>
+    <Description>Неформализованный документ</Description>
+  </Document>
+  <Document>
+    <ModeID>1007012E</ModeID>
+    <Name>InqCustProcessing</Name>
+    <Description>Заявление на переработку товаров на таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1006084E</ModeID>
+    <Name>InventoryIn</Name>
+    <Description>Опись документов (Приказ ГТК России 395 от 30.03.2004 п. 8, Приказ ГТК России 1284 от 29.11.2002). Внутренний формат.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006095E</ModeID>
+    <Name>KTSOutCustomsMark</Name>
+    <Description>Служебные отметки по КТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1004075E</ModeID>
+    <Name>NotifCloseProc</Name>
+    <Description>Уведомление о закрытии процедуры</Description>
+  </Document>
+  <Document>
+    <ModeID>1008002E</ModeID>
+    <Name>NotifGoodsArrive</Name>
+    <Description>Уведомление о прибытии товарной партии</Description>
+  </Document>
+  <Document>
+    <ModeID>1007011E</ModeID>
+    <Name>PermitCustProcessing</Name>
+    <Description>Разрешение на переработку товаров на таможенной территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1004055E</ModeID>
+    <Name>PermitOpenProc</Name>
+    <Description>Уведомление об открытии процедуры декларирования.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004056E</ModeID>
+    <Name>RejectReqOperation</Name>
+    <Description>Отказ в запрашиваемых действиях</Description>
+  </Document>
+  <Document>
+    <ModeID>1007014E</ModeID>
+    <Name>ReqCustProcessingInvent</Name>
+    <Description>Запрос документов, подтверждающих сведения, указанные в заявлении на переработку товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1004057E</ModeID>
+    <Name>ReqOpenProc</Name>
+    <Description>Запрос на открытие процедуры декларирования</Description>
+  </Document>
+  <Document>
+    <ModeID>1006091E</ModeID>
+    <Name>RevealedRisks</Name>
+    <Description>Отчет по выявленным рискам</Description>
+  </Document>
+  <Document>
+    <ModeID>1006090E</ModeID>
+    <Name>TransferPersonExplanation</Name>
+    <Description>Пояснение лица, имеющего отношение к перемещению товаров и транспортных средств через таможенную границу Российской Федерации. (ст. 369 ТК РФ)</Description>
+  </Document>
+  <Document>
+    <ModeID>1008001E</ModeID>
+    <Name>DO1Report</Name>
+    <Description>Отчет о помещении товар на СВХ по форме ДО1мв</Description>
+  </Document>
+  <Document>
+    <ModeID>1006096E</ModeID>
+    <Name>GoodsArriveReq</Name>
+    <Description>Запрос о прибытии товарной партии</Description>
+  </Document>
+  <Document>
+    <ModeID>1006097E</ModeID>
+    <Name>GoodsNoArrive</Name>
+    <Description>Уведомление  о непоступлении товарной партии</Description>
+  </Document>
+  <Document>
+    <ModeID>1004082E</ModeID>
+    <Name>EPS_EnvResponse</Name>
+    <Description>Повтор сообщения по запросу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006098E</ModeID>
+    <Name>PackagePTS</Name>
+    <Description>Пакет с информацией об оформлении бланков ПТС и ПШТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1006810E</ModeID>
+    <Name>PI_TIRCarnet</Name>
+    <Description>Предварительная информация по книжке МДП</Description>
+  </Document>
+  <Document>
+    <ModeID>1006811E</ModeID>
+    <Name>PI_RwInformation</Name>
+    <Description>Предварительная информация о товарах перевозимых ж/д транспортом</Description>
+  </Document>
+  <Document>
+    <ModeID>1006805E</ModeID>
+    <Name>PI_TransitInformation</Name>
+    <Description>Предварительное уведомление о транзите товаров. Внешний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006802E</ModeID>
+    <Name>Notif_PIResult</Name>
+    <Description>Уведомление о результатах обработки сообщения (Предв.инф-ние)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006036E</ModeID>
+    <Name>ActInspectionIn</Name>
+    <Description>Акт таможенного досмотра (внутренний формат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006037E</ModeID>
+    <Name>ATDCloseControl</Name>
+    <Description>Протокол завершения контроля АТД</Description>
+  </Document>
+  <Document>
+    <ModeID>1003304E</ModeID>
+    <Name>AirPassengerDocuments</Name>
+    <Description>Пассажирская ведомость</Description>
+  </Document>
+  <Document>
+    <ModeID>1003305E</ModeID>
+    <Name>AirShoppingWaybill</Name>
+    <Description>Товарно - транспортная накладная магазина на борту ВС</Description>
+  </Document>
+  <Document>
+    <ModeID>1003303E</ModeID>
+    <Name>CargoManifest</Name>
+    <Description>Грузовой манифест</Description>
+  </Document>
+  <Document>
+    <ModeID>1008008E</ModeID>
+    <Name>CWDeclaration</Name>
+    <Description>Заявление на проведение операций над товарами</Description>
+  </Document>
+  <Document>
+    <ModeID>1008007E</ModeID>
+    <Name>CWFormular</Name>
+    <Description>Формуляр контроля товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1008006E</ModeID>
+    <Name>CWQuery</Name>
+    <Description>Запрос на получение новых документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008005E</ModeID>
+    <Name>CWQueryResult</Name>
+    <Description>Результат выполнения запроса</Description>
+  </Document>
+  <Document>
+    <ModeID>1008004E</ModeID>
+    <Name>CWQuitance</Name>
+    <Description>Квитанция об успешном получении информации</Description>
+  </Document>
+  <Document>
+    <ModeID>1008003E</ModeID>
+    <Name>CWStorageQuitance</Name>
+    <Description>Складская квитанция</Description>
+  </Document>
+  <Document>
+    <ModeID>1006099E</ModeID>
+    <Name>LoadPTSResult</Name>
+    <Description>Пакет с протоколом обработки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006801E</ModeID>
+    <Name>PIint_TransitInformation</Name>
+    <Description>Уведомление о подаче предварительных сведений. Внутренний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006803E</ModeID>
+    <Name>ReqPI_Inform</Name>
+    <Description>Запрос на предоставление предварительной информации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006808E</ModeID>
+    <Name>ESADoutP</Name>
+    <Description>Предварительное уведомление о декларировании товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006080E</ModeID>
+    <Name>ReportCloseControl</Name>
+    <Description>Протокол завершения контроля Грузовой таможенной декларации (ДТ )</Description>
+  </Document>
+  <Document>
+    <ModeID>1006029E</ModeID>
+    <Name>ApplicationStore</Name>
+    <Description>Заявление на припасы</Description>
+  </Document>
+  <Document>
+    <ModeID>1000001S</ModeID>
+    <Name>CompareDocuments</Name>
+    <Description></Description>
+  </Document>
+  <Document>
+    <ModeID>1006022E</ModeID>
+    <Name>ActThievingSampling</Name>
+    <Description>Акт взятия проб или образцов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006025E</ModeID>
+    <Name>AssignmentDecisionMaking</Name>
+    <Description>Направления для принятие решений</Description>
+  </Document>
+  <Document>
+    <ModeID>1006031E</ModeID>
+    <Name>CommissionInspection</Name>
+    <Description>Поручение на досмотр</Description>
+  </Document>
+  <Document>
+    <ModeID>1006038E</ModeID>
+    <Name>ExplanationSalesTerms</Name>
+    <Description>Пояснения по условиям продажи, которые могли повлиять на цену сделки.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006046E</ModeID>
+    <Name>GoodsCheckReport</Name>
+    <Description>Отчёт о результатах сверки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006049E</ModeID>
+    <Name>GoodsInfoAndDescriptionsOut</Name>
+    <Description>Дополнение к графе 47 ДТ  (описание и характеристика товаров, исчисление таможенных платежей, дополнительная информация)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006053E</ModeID>
+    <Name>NotifImpExpSEZ</Name>
+    <Description>Предварительное уведомление о ввозе (вывозе) товаров на (с) территорию(ии) особой экономической зоны</Description>
+  </Document>
+  <Document>
+    <ModeID>1001202E</ModeID>
+    <Name>QualificationCertificate</Name>
+    <Description>Квалификационный аттестат специалиста по таможенному оформлению</Description>
+  </Document>
+  <Document>
+    <ModeID>1006041E</ModeID>
+    <Name>ReqAdditionalDocuments</Name>
+    <Description>Запрос о представлении дополнительных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006030E</ModeID>
+    <Name>ReqTransportMeansArrive</Name>
+    <Description>Запрос информации о прибытии товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006054E</ModeID>
+    <Name>ResidentApplication</Name>
+    <Description>Заявление резидента особой экономической зоны</Description>
+  </Document>
+  <Document>
+    <ModeID>1001203E</ModeID>
+    <Name>ResidentSEZSertificate</Name>
+    <Description>Свидетельство, удостоверяющее регистрацию лица в качестве резидента особой экономической зоны</Description>
+  </Document>
+  <Document>
+    <ModeID>1006023E</ModeID>
+    <Name>ResolutionDestinationExamination</Name>
+    <Description>Постановление о назначении экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1003105E</ModeID>
+    <Name>ShippingManifest</Name>
+    <Description>Путевой лист грузового автомобиля</Description>
+  </Document>
+  <Document>
+    <ModeID>1002017E</ModeID>
+    <Name>ShippingSpecification</Name>
+    <Description>Отгрузочная спецификация</Description>
+  </Document>
+  <Document>
+    <ModeID>1002018E</ModeID>
+    <Name>WayBillExpressIndividual</Name>
+    <Description>Индивидуальная накладная при экспресс перевозке</Description>
+  </Document>
+  <Document>
+    <ModeID>1006042E</ModeID>
+    <Name>TransportMeansArriveReport</Name>
+    <Description>Информация о размещении товаров и транспортных средств в зоне таможенного контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1006059E</ModeID>
+    <Name>WayBillExpressCommon</Name>
+    <Description>Общая накладная при экспресс-перевозке</Description>
+  </Document>
+  <Document>
+    <ModeID>1006065E</ModeID>
+    <Name>GoodsInfoAndDescriptionsIn</Name>
+    <Description>Дополнение к графе 47 ДТ  (описание и характеристика товаров, исчисление таможенных платежей, дополнительная информация)</Description>
+  </Document>
+  <Document>
+    <ModeID>1004083E</ModeID>
+    <Name>OEZ_StartCheckQuery</Name>
+    <Description>Уведомление о начале проверки сведений указанных в запросе разрешения на ввоз (вывоз) товаров в (из) ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004085E</ModeID>
+    <Name>OEZ_NotifViolation</Name>
+    <Description>Уведомление о недостаточности сведений для принятия решения, требование на внесение изменений, предоставление сведений/о выявленных несоответств</Description>
+  </Document>
+  <Document>
+    <ModeID>1006081E</ModeID>
+    <Name>OEZ_EndCheckQuery</Name>
+    <Description>Уведомление об окончании проверки сведений, указанных в запросе разрешения на ввоз (вывоз) товаров в (из) ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006062E</ModeID>
+    <Name>OEZ_Report</Name>
+    <Description>Отчёт о ввозимых, вывозимых, хранящихся, изготавливаемых, перерабатываемых, приобретаемых и реализуемых товарах на территории ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006063E</ModeID>
+    <Name>OEZ_StartCheckReport</Name>
+    <Description>Уведомление о начале проверки отчетности лица, осуществляющего деятельность на территории ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004084E</ModeID>
+    <Name>OEZ_ReportNotifViolation</Name>
+    <Description>Решение таможенного органа по отчету лица, осуществляющего деятельность на территории ОЭЗ, требование на внесение изменений</Description>
+  </Document>
+  <Document>
+    <ModeID>1006064E</ModeID>
+    <Name>OEZ_EndCheckReport</Name>
+    <Description>Уведомление об окончании проверки отчетности лица, осуществляющего деятельность на территории ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1002019E</ModeID>
+    <Name>CashMemorandum</Name>
+    <Description>Сведения из товарного и кассового чеков</Description>
+  </Document>
+  <Document>
+    <ModeID>1006047E</ModeID>
+    <Name>NotifGoodsTermsViolation</Name>
+    <Description>Уведомление о несоблюдении условий для ввоза / вывоза товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1020101E</ModeID>
+    <Name>GoodsExportReq</Name>
+    <Description>Запрос сведений о фактически вывезенных товарах по декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1020103E</ModeID>
+    <Name>ChangeDeclNotif</Name>
+    <Description>Уведомление об изменении ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1020102E</ModeID>
+    <Name>GoodsExportInfo</Name>
+    <Description>Информация о фактически вывезенных товарах по ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006040E</ModeID>
+    <Name>AnsResolutionCustoms</Name>
+    <Description>Ответ декларанта на решение таможенного органа по таможенной стоимости</Description>
+  </Document>
+  <Document>
+    <ModeID>1006804E</ModeID>
+    <Name>CustUsePI</Name>
+    <Description>Уведомление об использовании предварительной информации</Description>
+  </Document>
+  <Document>
+    <ModeID>1008009E</ModeID>
+    <Name>DO2Report</Name>
+    <Description>Отчет о выдаче товаров с СВХ по форме ДО2/ДО2мв</Description>
+  </Document>
+  <Document>
+    <ModeID>1006057E</ModeID>
+    <Name>GoodsClassificationDecision</Name>
+    <Description>Решение о классификации товара</Description>
+  </Document>
+  <Document>
+    <ModeID>1006806E</ModeID>
+    <Name>ReqPI_Delete</Name>
+    <Description>Запрос на аннулирование предварительной информации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006055E</ModeID>
+    <Name>KTDout</Name>
+    <Description>Корректировка таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006111E</ModeID>
+    <Name>KDTout_CU</Name>
+    <Description>Корректировка декларации на товары</Description>
+  </Document>
+  <Document>
+    <ModeID>1006066E</ModeID>
+    <Name>KDTOutCustomsMark</Name>
+    <Description>Корректировка декларации на товары - служебные отметки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006067E</ModeID>
+    <Name>KTDin</Name>
+    <Description>Корректировка таможенной декларации - внутренний формат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006102E</ModeID>
+    <Name>ActQuarantineFitoSanControl</Name>
+    <Description>Акт государственного карантинного фитосанитарного контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1002021E</ModeID>
+    <Name>ApplicationReturnCreditingCash</Name>
+    <Description>Заявление о возврате (зачете) денежных средств</Description>
+  </Document>
+  <Document>
+    <ModeID>1002020E</ModeID>
+    <Name>CertificateAccountsOrgan</Name>
+    <Description>Справка о наличии счетов в банке у организации</Description>
+  </Document>
+  <Document>
+    <ModeID>1009013E</ModeID>
+    <Name>CertificatePreciousMetal</Name>
+    <Description>Сертификат химического состава на содержание драгметаллов</Description>
+  </Document>
+  <Document>
+    <ModeID>1003206E</ModeID>
+    <Name>CertificateRightStateFlag</Name>
+    <Description>Свидетельство о праве плавать под Государственным флагом Российской Федерации.</Description>
+  </Document>
+  <Document>
+    <ModeID>1003207E</ModeID>
+    <Name>CertificateTitleVessel</Name>
+    <Description>Свидетельство о праве собственности на судно</Description>
+  </Document>
+  <Document>
+    <ModeID>1009006E</ModeID>
+    <Name>CultureCertificate</Name>
+    <Description>Свидетельство на право вывоза культурных ценностей</Description>
+  </Document>
+  <Document>
+    <ModeID>1009009E</ModeID>
+    <Name>DeclarationConformity</Name>
+    <Description>Декларация о соответствии</Description>
+  </Document>
+  <Document>
+    <ModeID>1009005E</ModeID>
+    <Name>FitoSanitaryCertificate</Name>
+    <Description>Фитосанитарный сертификат</Description>
+  </Document>
+  <Document>
+    <ModeID>1009008E</ModeID>
+    <Name>LicenseSubsoilUse</Name>
+    <Description>Лицензия на пользование недрами</Description>
+  </Document>
+  <Document>
+    <ModeID>1009011E</ModeID>
+    <Name>PermitQuarantine</Name>
+    <Description>Импортное Карантинное Разрешение</Description>
+  </Document>
+  <Document>
+    <ModeID>1006101E</ModeID>
+    <Name>PreliminaryOriginCountry</Name>
+    <Description>Предварительное решение о стране происхождения товара</Description>
+  </Document>
+  <Document>
+    <ModeID>1006100E</ModeID>
+    <Name>PreliminaryTNVEDModeID</Name>
+    <Description>Предварительное решение по классификации товара в соответствии с ТН ВЭД ЕАЭС</Description>
+  </Document>
+  <Document>
+    <ModeID>1009010E</ModeID>
+    <Name>QuarantineCertificate</Name>
+    <Description>Карантинный сертификат</Description>
+  </Document>
+  <Document>
+    <ModeID>1009007E</ModeID>
+    <Name>ResolutionCommissionExportControl</Name>
+    <Description>Разрешение, выдаваемое Комиссией по экспортному контролю</Description>
+  </Document>
+  <Document>
+    <ModeID>1009012E</ModeID>
+    <Name>VeterinaryCertificate</Name>
+    <Description>Ветеринарный сертификат</Description>
+  </Document>
+  <Document>
+    <ModeID>1006104E</ModeID>
+    <Name>ActExpertise</Name>
+    <Description>Акт экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1006105E</ModeID>
+    <Name>ActRegistrationMining</Name>
+    <Description>Акт регистрации объемов добычи (вылова) при выгрузке в порту (пункте выгрузки)/при перегрузке промысловым судном.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006109E</ModeID>
+    <Name>ApplicationAdminTransport</Name>
+    <Description>Заявка от администрации транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1004086E</ModeID>
+    <Name>NotifAirRegistration</Name>
+    <Description>Уведомление о регистрации въездной/выездной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1003306E</ModeID>
+    <Name>PI_AirInformation</Name>
+    <Description>Сведения о воздушном судне</Description>
+  </Document>
+  <Document>
+    <ModeID>1006103E</ModeID>
+    <Name>RepudDeclRegistration</Name>
+    <Description>Лист отказа в регистрации ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006108E</ModeID>
+    <Name>NotifAirDeclViolation</Name>
+    <Description>Уведомление о переходе на общеустановленный порядок оформления (оформление воздушных судов)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006106E</ModeID>
+    <Name>PermissionExtraction</Name>
+    <Description>Разрешение на добычу (вылов) водных биологических ресурсов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008010E</ModeID>
+    <Name>DO1ReportIn</Name>
+    <Description>Отчет о помещении товар на СВХ по форме ДО1/ДО1мв</Description>
+  </Document>
+  <Document>
+    <ModeID>1008011E</ModeID>
+    <Name>DO2ReportIn</Name>
+    <Description>Отчет о выдаче товаров с СВХ по форме ДО2/ДО2мв</Description>
+  </Document>
+  <Document>
+    <ModeID>1006110E</ModeID>
+    <Name>FreeBinaryDoc</Name>
+    <Description>Бинарные данные</Description>
+  </Document>
+  <Document>
+    <ModeID>1004087E</ModeID>
+    <Name>NotifAddControl</Name>
+    <Description>Решение о проведении дополнительной проверки</Description>
+  </Document>
+  <Document>
+    <ModeID>1004088E</ModeID>
+    <Name>ReqCorrectPayment</Name>
+    <Description>Решение о корректировке таможенной стоимости товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006024E</ModeID>
+    <Name>CalculationAmountPayment</Name>
+    <Description>Расчет размера обеспечения уплаты таможенных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1006116E</ModeID>
+    <Name>RequestDataRD</Name>
+    <Description>Запрос перечня разрешительных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006122E</ModeID>
+    <Name>DataRD</Name>
+    <Description>Перечень разрешительных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006121E</ModeID>
+    <Name>RequestDetailDataRD</Name>
+    <Description>Запрос детальных данных разрешительного документа</Description>
+  </Document>
+  <Document>
+    <ModeID>1006117E</ModeID>
+    <Name>DetailDataRD</Name>
+    <Description>Сведения по неквотируемому документу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006118E</ModeID>
+    <Name>DetailQuotaDataRD</Name>
+    <Description>Сведения по квотируемому документу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006119E</ModeID>
+    <Name>ConfirmDataRD</Name>
+    <Description>Подтверждение оформления по документу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006120E</ModeID>
+    <Name>ConfirmQuotaDataRD</Name>
+    <Description>Информация о списании по квоте</Description>
+  </Document>
+  <Document>
+    <ModeID>1006115E</ModeID>
+    <Name>CustExpertResult</Name>
+    <Description>Сведения по результатам проведенной таможенной экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1006114E</ModeID>
+    <Name>CustOpinion</Name>
+    <Description>Заключение таможенного эксперта</Description>
+  </Document>
+  <Document>
+    <ModeID>1003106E</ModeID>
+    <Name>CUTIR_Carnet</Name>
+    <Description>Электронная копия транзитной декларации, в качестве которой используется книжка МДП с прилагаемыми к ней транспортными (перевозочными) и коммерч</Description>
+  </Document>
+  <Document>
+    <ModeID>1008012E</ModeID>
+    <Name>RepresentWHDocuments</Name>
+    <Description>Представление документов при помещении товаров на временное хранение</Description>
+  </Document>
+  <Document>
+    <ModeID>1004089E</ModeID>
+    <Name>ResultRD</Name>
+    <Description>Уведомление о результате проверки / обработке сообщения БД РД</Description>
+  </Document>
+  <Document>
+    <ModeID>1006123E</ModeID>
+    <Name>AddInfoForeignTradeContract</Name>
+    <Description>Дополнительные сведения по внешнеторговым контрактам</Description>
+  </Document>
+  <Document>
+    <ModeID></ModeID>
+    <Name>GoodsTransfer</Name>
+    <Description>Стат.форма</Description>
+  </Document>
+  <Document>
+    <ModeID>1006125E</ModeID>
+    <Name>PaymentDocument</Name>
+    <Description>Документ уплаты таможенных и иных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1006124E</ModeID>
+    <Name>StaticForm</Name>
+    <Description>Статистическая форма учета перемещения товара</Description>
+  </Document>
+  <Document>
+    <ModeID>1006139E</ModeID>
+    <Name>ActCustomsObservation</Name>
+    <Description>Акт таможенного наблюдения</Description>
+  </Document>
+  <Document>
+    <ModeID>1006138E</ModeID>
+    <Name>ActOperationIndentif</Name>
+    <Description>Акт об изменении, удалении, уничтожении или замене средств идентификации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006126E</ModeID>
+    <Name>ApplicationAcceptClassDecision</Name>
+    <Description>Заявление о принятии классификационного решения</Description>
+  </Document>
+  <Document>
+    <ModeID>1006134E</ModeID>
+    <Name>CoordinationRequests</Name>
+    <Description>Направление на согласование</Description>
+  </Document>
+  <Document>
+    <ModeID>1006133E</ModeID>
+    <Name>CorrectionDecision</Name>
+    <Description>Решение по направлению, принятое структурным отделом таможни</Description>
+  </Document>
+  <Document>
+    <ModeID>1003307E</ModeID>
+    <Name>DeclarationCrew</Name>
+    <Description>Декларация о личных вещах экипажа</Description>
+  </Document>
+  <Document>
+    <ModeID>1006136E</ModeID>
+    <Name>GTDInCustomsMark</Name>
+    <Description>Служебные отметки ДТ (внутренний формат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006130E</ModeID>
+    <Name>NotifGoodsPresent</Name>
+    <Description>Уведомление о предоставлении товаров таможенному органу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006131E</ModeID>
+    <Name>NotifGoodsWhArrive</Name>
+    <Description>Уведомление о поступлении товаров на СВХ внешнего ТО</Description>
+  </Document>
+  <Document>
+    <ModeID>1006137E</ModeID>
+    <Name>NotifInspectionReqGoods</Name>
+    <Description>Уведомление о принятии решения по проведению фактического контроля / Требование о предъявлении товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006132E</ModeID>
+    <Name>RemovalControl</Name>
+    <Description>Подтверждение снятия с контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1006127E</ModeID>
+    <Name>ReqESADInfo</Name>
+    <Description>Запрос ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006128E</ModeID>
+    <Name>ReqGoodsArrive</Name>
+    <Description>Запрос о прибытии товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006129E</ModeID>
+    <Name>GoodsArriveReport</Name>
+    <Description>Информация о прибытии товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006140E</ModeID>
+    <Name>ReqGoodsPresent</Name>
+    <Description>Требование на предоставление товаров таможенному органу</Description>
+  </Document>
+  <Document>
+    <ModeID>1006135E</ModeID>
+    <Name>ReqOperations</Name>
+    <Description>Требование о проведении операций в отношении товаров и транспортных средств</Description>
+  </Document>
+  <Document>
+    <ModeID>1008015E</ModeID>
+    <Name>ConfirmWHDocReg</Name>
+    <Description>Подтверждение о регистрации представленных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008027E</ModeID>
+    <Name>DO1CloseReq</Name>
+    <Description>Уведомление о полной выдаче товаров по отчетности ДО1</Description>
+  </Document>
+  <Document>
+    <ModeID>1008013E</ModeID>
+    <Name>DO3Report</Name>
+    <Description>Отчет о выдаче товаров с СВХ по форме ДО3</Description>
+  </Document>
+  <Document>
+    <ModeID>1008020E</ModeID>
+    <Name>DO3Request</Name>
+    <Description>Требование о предоставлении отчетности по форме ДО-3</Description>
+  </Document>
+  <Document>
+    <ModeID>1008019E</ModeID>
+    <Name>DORegInfo</Name>
+    <Description>Уведомление  о регистрации отчетности ДО</Description>
+  </Document>
+  <Document>
+    <ModeID>1006144E</ModeID>
+    <Name>OEZ_ExportNotif</Name>
+    <Description>Предварительное уведомление о вывозе товаров с территории ОЭЗ/ПОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006143E</ModeID>
+    <Name>OEZ_ExportPass</Name>
+    <Description>Разрешение на выезд средства транспорта с территории ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006142E</ModeID>
+    <Name>OEZ_GoodsIdentify</Name>
+    <Description>Уведомление о проведении идентификации товаров, ввозимых (ввезенных) на территорию ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006141E</ModeID>
+    <Name>OEZ_ImportNotif</Name>
+    <Description>Уведомление о ввозе товаров на территорию ОЭЗ/ПОЭЗ и въезде средства транспорта</Description>
+  </Document>
+  <Document>
+    <ModeID>1006146E</ModeID>
+    <Name>OEZ_Inventory</Name>
+    <Description>Опись документов ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006145E</ModeID>
+    <Name>OEZ_NotifReg</Name>
+    <Description>Регистрационный номер уведомления о ввозе/вывозе товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1004090E</ModeID>
+    <Name>ParticipantSysInfo</Name>
+    <Description>Информация об учетной записи участника ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1001204E</ModeID>
+    <Name>Passport</Name>
+    <Description>Паспорт гражданина РФ</Description>
+  </Document>
+  <Document>
+    <ModeID>1008026E</ModeID>
+    <Name>PermitDOChange</Name>
+    <Description>Принятие добавочных листов к отчетности СВХ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006813E</ModeID>
+    <Name>PI_AirArrive</Name>
+    <Description>Предварительное уведомление о прибытии товаров, перевозимых воздушным транспортом.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006814E</ModeID>
+    <Name>PI_AutoArrive</Name>
+    <Description>Предварительное уведомление о прибытии товаров, перевозимых автомобильным транспортном</Description>
+  </Document>
+  <Document>
+    <ModeID>1006815E</ModeID>
+    <Name>PI_RwArrive</Name>
+    <Description>Предварительная информация о товарах перевозимых ж/д транспортом</Description>
+  </Document>
+  <Document>
+    <ModeID>1004091E</ModeID>
+    <Name>ReqPtpcSysInfo</Name>
+    <Description>Запрос на предоставление технологических сведений об информационной системе участника ВЭД</Description>
+  </Document>
+  <Document>
+    <ModeID>1008016E</ModeID>
+    <Name>ReqWHDoc</Name>
+    <Description>Запрос на предоставление документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008022E</ModeID>
+    <Name>ReqWHGoodsProlong</Name>
+    <Description>Заявление о продлении сроков временного хранения товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1008023E</ModeID>
+    <Name>ResWHGoodsProlong</Name>
+    <Description>Решение, принятое по заявлению о продлении сроков временного хранения товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1003402E</ModeID>
+    <Name>TransmissionDocuments</Name>
+    <Description>Передаточная ведомость</Description>
+  </Document>
+  <Document>
+    <ModeID>1008018E</ModeID>
+    <Name>WHDocInvConfirm</Name>
+    <Description>Подтверждение о получении перечня запрошенных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008014E</ModeID>
+    <Name>WHDocInventory</Name>
+    <Description>Предоставление описи документов таможенному органу, осуществляющему контроль за функционированием СВХ./Перечень электронных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1008017E</ModeID>
+    <Name>WHDocReject</Name>
+    <Description>Отказ в предоставлении электронных документов владельцу СВХ</Description>
+  </Document>
+  <Document>
+    <ModeID>1008021E</ModeID>
+    <Name>WHGoodOut</Name>
+    <Description>Уведомление о принятии решения о выдаче товаров с СВХ</Description>
+  </Document>
+  <Document>
+    <ModeID>1008024E</ModeID>
+    <Name>WHGoodsDeadline</Name>
+    <Description>Уведомление/Акт  об истечении сроков временного хранения товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1003001E</ModeID>
+    <Name>ProhibitedGoods</Name>
+    <Description>Документ о товарах запрещенных или ограниченных к ввозу</Description>
+  </Document>
+  <Document>
+    <ModeID>1003208E</ModeID>
+    <Name>SeaPostalManifest</Name>
+    <Description>Почтовый манифест для водного транспорта</Description>
+  </Document>
+  <Document>
+    <ModeID>1003308E</ModeID>
+    <Name>AirPostalManifest</Name>
+    <Description>Почтовый манифест для авиа.транспорта</Description>
+  </Document>
+  <Document>
+    <ModeID>1003003E</ModeID>
+    <Name>PassengerManifest</Name>
+    <Description>Пассажирская ведомость</Description>
+  </Document>
+  <Document>
+    <ModeID>1003002E</ModeID>
+    <Name>GoodsDecision</Name>
+    <Description>Предварительное/окончательное решение в отношении товаров при перевозке морским/воздушным транспортном</Description>
+  </Document>
+  <Document>
+    <ModeID>1009014E</ModeID>
+    <Name>OwnershipTransferDoc</Name>
+    <Description>Сведения о документах, подтверждающих передачу прав на объекты интеллектуальной собственности.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006812E</ModeID>
+    <Name>PI_ESADout_CU</Name>
+    <Description>Предварительное уведомление о транзите  товаров по национальной процедуре</Description>
+  </Document>
+  <Document>
+    <ModeID>1006816E</ModeID>
+    <Name>PI_SeaArrive</Name>
+    <Description>Предварительная информация о товарах перевозимых  водным транспортом</Description>
+  </Document>
+  <Document>
+    <ModeID>1006809E</ModeID>
+    <Name>PI_StatusRequest</Name>
+    <Description>Запрс статуса предварительной информации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006147E</ModeID>
+    <Name>OEZ_ExportPassExpired</Name>
+    <Description>Уведомление об аннулировании разрешения на выезд средства транспорта</Description>
+  </Document>
+  <Document>
+    <ModeID>2001001E</ModeID>
+    <Name>RequestMCA</Name>
+    <Description>Запрос информации из АИС "АИСТ-М" в ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>1006213E</ModeID>
+    <Name>RequestMCA</Name>
+    <Description>Запрос информации из АИС "АИСТ-М" в ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>2001002E</ModeID>
+    <Name>ResponseMCA</Name>
+    <Description>Предоставление информации из ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>1006211E</ModeID>
+    <Name>ResponseMCA</Name>
+    <Description>Предоставление информации из ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>2001003E</ModeID>
+    <Name>FactIssueDTMCA</Name>
+    <Description>Подтверждение факта выпуска ДТ для ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>1006212E</ModeID>
+    <Name>FactIssueDTMCA</Name>
+    <Description>Подтверждение факта выпуска ДТ для ИСС "Малахит"</Description>
+  </Document>
+  <Document>
+    <ModeID>1020001E</ModeID>
+    <Name>ESADInfoReq</Name>
+    <Description>Запрос информации из ДТ/ТД</Description>
+  </Document>
+  <Document>
+    <ModeID>1020008E</ModeID>
+    <Name>ExportCancellation</Name>
+    <Description>Уведомление об аннулировании фактического вывоза товаров.</Description>
+  </Document>
+  <Document>
+    <ModeID>1009015E</ModeID>
+    <Name>ExportDiamondsCertificate</Name>
+    <Description>Сертификат вывоза необработанных природных алмазов</Description>
+  </Document>
+  <Document>
+    <ModeID>1020006E</ModeID>
+    <Name>GoodsDiscrepancyReport</Name>
+    <Description>Отчет о найденных расхождениях заявленных к вывозу товаров над заявленными по ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1020007E</ModeID>
+    <Name>GoodsExportDecision</Name>
+    <Description>Решение о разрешении/запрете вывоза товаров с превышением</Description>
+  </Document>
+  <Document>
+    <ModeID>1020005E</ModeID>
+    <Name>GoodsFactInfo</Name>
+    <Description>Информация о фактически вывозимых товарах</Description>
+  </Document>
+  <Document>
+    <ModeID>1006149E</ModeID>
+    <Name>GTDReference</Name>
+    <Description>Справка, прилагаемая к грузовой таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1020002E</ModeID>
+    <Name>GTDReq</Name>
+    <Description>Запрос ДТ из ЦБД деклараций на товары.</Description>
+  </Document>
+  <Document>
+    <ModeID>1009016E</ModeID>
+    <Name>KimberleyProcessCertificate</Name>
+    <Description>Сертификат Кимберлийского процесса на необработанные природные алмазы</Description>
+  </Document>
+  <Document>
+    <ModeID>1002022E</ModeID>
+    <Name>PaymentConfirmation</Name>
+    <Description>Чек подтверждения оплаты</Description>
+  </Document>
+  <Document>
+    <ModeID>1006148E</ModeID>
+    <Name>ResolutionOrigCountryPreference</Name>
+    <Description>Решение (решения) о стране происхождения товаров и (или) предоставлении (отказе в предоставлении) тарифных преференций</Description>
+  </Document>
+  <Document>
+    <ModeID>1009017E</ModeID>
+    <Name>SertifST2Form</Name>
+    <Description>Сертификат о происхождении товаров по форме СТ-2</Description>
+  </Document>
+  <Document>
+    <ModeID>1009018E</ModeID>
+    <Name>StateRegistrationCertif</Name>
+    <Description>Свидетельство о государственной регистрации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006150E</ModeID>
+    <Name>NotifConfirmDT</Name>
+    <Description>Уведомление о получении ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004103E</ModeID>
+    <Name>AddCustomerRegRefusal</Name>
+    <Description>Отказ в принятии дополнения к договору поручительства должностным лицом</Description>
+  </Document>
+  <Document>
+    <ModeID>1004093E</ModeID>
+    <Name>AdditionalRegistrationNotif</Name>
+    <Description>Уведомление о регистрации дополнения к договору поручительства</Description>
+  </Document>
+  <Document>
+    <ModeID>1004092E</ModeID>
+    <Name>AddRegistrationRefusal</Name>
+    <Description>Отказ по дополнению к договору поручительства</Description>
+  </Document>
+  <Document>
+    <ModeID>1004101E</ModeID>
+    <Name>DuplicationDT</Name>
+    <Description>Уведомление о дублировании ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004094E</ModeID>
+    <Name>ExpiredAdditionalDocuments</Name>
+    <Description>Перечень регистрационных номеров дополнений к договору поручительства, использование которых для обеспечения уплаты таможенных пошлин, налогов п</Description>
+  </Document>
+  <Document>
+    <ModeID>1004102E</ModeID>
+    <Name>FilledDTInfo</Name>
+    <Description>Ответ на уведомление о дублировании ДТ.</Description>
+  </Document>
+  <Document>
+    <ModeID>1002024E</ModeID>
+    <Name>GuaranteeContractAddition</Name>
+    <Description>Дополнение к договору поручительства.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004100E</ModeID>
+    <Name>GuaranteeResult</Name>
+    <Description>Уведомление о результате обработки запроса статуса процесса работы с дополнением к договору поручительства.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004099E</ModeID>
+    <Name>GuaranteeStatusReq</Name>
+    <Description>Запрос статуса процесса работы с дополнением к договору поручительства.</Description>
+  </Document>
+  <Document>
+    <ModeID>1002025E</ModeID>
+    <Name>ReceiptPayment</Name>
+    <Description>Чек оплаты таможенный платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1004098E</ModeID>
+    <Name>RegCertificateNumInfo</Name>
+    <Description>Сведения о номере выданного сертификата.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004097E</ModeID>
+    <Name>RegTDNumberInfo</Name>
+    <Description>Сведения о номере зарегистрированной транзитной декларации.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004095E</ModeID>
+    <Name>ReservedAmountRelease</Name>
+    <Description>Информация о зарезервированной сумме по дополнению к договору поручительства.</Description>
+  </Document>
+  <Document>
+    <ModeID>1004096E</ModeID>
+    <Name>TDSolution</Name>
+    <Description>Решение по транзитной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006153E</ModeID>
+    <Name>UtilizationTPOInfo</Name>
+    <Description>Сведения об оформленном ТПО на утилизационные сборы.</Description>
+  </Document>
+  <Document>
+    <ModeID>1002023E</ModeID>
+    <Name>WoodShipingSpecification</Name>
+    <Description>Отгрузочная спецификация на товары 44 группы ТН ВЭД ЕАЭС</Description>
+  </Document>
+  <Document>
+    <ModeID>1002026E</ModeID>
+    <Name>ContractDealPassport</Name>
+    <Description>Паспорт сделки (ПС), оформленный по контракту - документ валютного контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1006155E</ModeID>
+    <Name>DecisionClassGood</Name>
+    <Description>Решение о классификации товара в соответствии с ТН ВЭД ЕАЭС</Description>
+  </Document>
+  <Document>
+    <ModeID>1006151E</ModeID>
+    <Name>ESADInfo</Name>
+    <Description>Сведения из ЭДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006152E</ModeID>
+    <Name>GoodsDeclaration</Name>
+    <Description>Данные декларации на товары</Description>
+  </Document>
+  <Document>
+    <ModeID>1004104E</ModeID>
+    <Name>MistakenlySentDT</Name>
+    <Description>Уведомление об ошибочно направленной ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1003405E</ModeID>
+    <Name>NotifFactArrival</Name>
+    <Description>Уведомление о фактической подаче железнодорожного состава на ЖДПП</Description>
+  </Document>
+  <Document>
+    <ModeID>1003404E</ModeID>
+    <Name>RW_ConfirmDocs</Name>
+    <Description>Подтверждение получения документа</Description>
+  </Document>
+  <Document>
+    <ModeID>1003403E</ModeID>
+    <Name>RW_NotifViolation</Name>
+    <Description>Уведомление о нарушении вывоза товаров с таможенной территории Таможенного союза</Description>
+  </Document>
+  <Document>
+    <ModeID>1003406E</ModeID>
+    <Name>RW_PostalManifest</Name>
+    <Description>Почтовый манифест для железнодорожного транспорта</Description>
+  </Document>
+  <Document>
+    <ModeID>1003309E</ModeID>
+    <Name>CheckInOut</Name>
+    <Description>Сообщение о регистрации прибытия воздушного судна/Сообщение о разрешении на убытие воздушного судна</Description>
+  </Document>
+  <Document>
+    <ModeID>1003310E</ModeID>
+    <Name>FactIntermediateLanding</Name>
+    <Description>Уведомление о факте  совершения промежуточной, вынужденной (технической) посадки</Description>
+  </Document>
+  <Document>
+    <ModeID>1003004E</ModeID>
+    <Name>HouseManifest</Name>
+    <Description>Консолидированный манифест</Description>
+  </Document>
+  <Document>
+    <ModeID>1006818E</ModeID>
+    <Name>PI_ConfirmDocs</Name>
+    <Description>Подтверждение получения документа</Description>
+  </Document>
+  <Document>
+    <ModeID>1006817E</ModeID>
+    <Name>PI_NotifViolation</Name>
+    <Description>Уведомление о нарушении вывоза товаров с таможенной территории Таможенного союза</Description>
+  </Document>
+  <Document>
+    <ModeID>1009055E</ModeID>
+    <Name>CheckResultData</Name>
+    <Description>Сведения о результатах проверки данных весогабаритного контроля с данными разрешительных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1009045E</ModeID>
+    <Name>ConclusionAboutNotAccessory</Name>
+    <Description>Заключение ФСВТС России</Description>
+  </Document>
+  <Document>
+    <ModeID>1009033E</ModeID>
+    <Name>DocReestrReq</Name>
+    <Description>Сведения из реестра разрешительных документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1009019E</ModeID>
+    <Name>FSBNotifShifrMeans</Name>
+    <Description>Ответ на запрос сведений из нотификаций о характеристиках товаров (продукции), содержащих шифровальные (криптографические) средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1009020E</ModeID>
+    <Name>FSBShifrMeans</Name>
+    <Description>Ответ на запрос сведений из заключений (разрешительных документов) на ввоз, вывоз и транзит специальных технических средств, предназначенных для</Description>
+  </Document>
+  <Document>
+    <ModeID>1009046E</ModeID>
+    <Name>FsTekConclPermit</Name>
+    <Description>Сведения о  разрешениях Комиссии по экспортному контролю РФ на временный вывоз из РФ контролируемых товаров и технологий/на осуществление внешне</Description>
+  </Document>
+  <Document>
+    <ModeID>1009044E</ModeID>
+    <Name>FsVtsTekLicense</Name>
+    <Description>Лицензия ФСВТС России/на ввоз (вывоз) товаров и технологий, подлежащих экспортному контролю</Description>
+  </Document>
+  <Document>
+    <ModeID>1009052E</ModeID>
+    <Name>HemicalMeansProtectionPlants</Name>
+    <Description>Сведения из заключений о целесообразности ввоза образцов незарегистрированных химических средств защиты растений для проведения регистрационных</Description>
+  </Document>
+  <Document>
+    <ModeID>1009034E</ModeID>
+    <Name>InFringer</Name>
+    <Description>Сведения из реестра нарушителей</Description>
+  </Document>
+  <Document>
+    <ModeID>1009021E</ModeID>
+    <Name>MinFinMetalStoneInOut</Name>
+    <Description>Ответ на запрос сведений о документах государственного контроля, оформляемого при ввозе и вывозе драгоценных камней, и оценки стоимости товаров,</Description>
+  </Document>
+  <Document>
+    <ModeID>1009022E</ModeID>
+    <Name>MinPromLicence</Name>
+    <Description>Ответ на запрос сведений о лицензии на ввоз/вывоз товара с территории Таможенного союза</Description>
+  </Document>
+  <Document>
+    <ModeID>1009023E</ModeID>
+    <Name>MinSportRosPechLic</Name>
+    <Description>Ответ на запрос документов о подтверждении целевого назначения материалов</Description>
+  </Document>
+  <Document>
+    <ModeID>1009047E</ModeID>
+    <Name>MVDTransitWeapon</Name>
+    <Description>Разрешение на ввоз на территорию РФ (вывоз с территории РФ, транзита через территорию РФ) гражданского и служебного оружия и патронов к нему, вы</Description>
+  </Document>
+  <Document>
+    <ModeID>1009042E</ModeID>
+    <Name>MZSRDrugSubstance</Name>
+    <Description>Сведения из государственного реестра лекарственных средств</Description>
+  </Document>
+  <Document>
+    <ModeID>1009043E</ModeID>
+    <Name>MZSRInvestigation</Name>
+    <Description>Разрешения на ввоз/вывоз на/с территории РФ и за ее пределы биологических материалов/ конкретной партии незарегистрированных лекарственных средс</Description>
+  </Document>
+  <Document>
+    <ModeID>1009035E</ModeID>
+    <Name>NoticeCustUnion</Name>
+    <Description>Сведения из реестра уведомлений Таможенного союза</Description>
+  </Document>
+  <Document>
+    <ModeID>1009036E</ModeID>
+    <Name>NoticeRuByKz</Name>
+    <Description>Сведения из документа "Уведомление Российской Федерации" ("Республики Беларусь", "Республики Казахстан")</Description>
+  </Document>
+  <Document>
+    <ModeID>1009037E</ModeID>
+    <Name>PaymentPenaltSheet</Name>
+    <Description>Ответ на запрос сведений об оплате штрафов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006156E</ModeID>
+    <Name>PP_RevealedRisks</Name>
+    <Description>Результат выявления рисков по уведомлению о прибытии ТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1003005E</ModeID>
+    <Name>PrelimDecisionMsg</Name>
+    <Description>Сообщение о принятии предварительного решения в ТО</Description>
+  </Document>
+  <Document>
+    <ModeID>1009041E</ModeID>
+    <Name>RegCoupon</Name>
+    <Description>Сведения из документа - Учетный талон</Description>
+  </Document>
+  <Document>
+    <ModeID>1009054E</ModeID>
+    <Name>ResolutionNotifData</Name>
+    <Description>Сведения о принятом решении</Description>
+  </Document>
+  <Document>
+    <ModeID>1009038E</ModeID>
+    <Name>ResultTK</Name>
+    <Description>Сведения из реестра транспортного контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1006157E</ModeID>
+    <Name>RevealedDirections</Name>
+    <Description>Результат выявления оперативных ориентировок</Description>
+  </Document>
+  <Document>
+    <ModeID>1006158E</ModeID>
+    <Name>RevealingTransportPP</Name>
+    <Description>Сообщение о прибытии/убытии транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1009051E</ModeID>
+    <Name>RFHIssueDetailsResponse</Name>
+    <Description>Запрос о заключениях СИТЕС (осетровые)</Description>
+  </Document>
+  <Document>
+    <ModeID>1009024E</ModeID>
+    <Name>RosKomRadio</Name>
+    <Description>Ответ на запрос сведения из заключения (разрешительного документа) на ввоз радиоэлектронных средств и высокочастотных устройств, в том числе вст</Description>
+  </Document>
+  <Document>
+    <ModeID>1009025E</ModeID>
+    <Name>RosPrirodCollectionMaterial</Name>
+    <Description>Ответ на запрос сведений из заключения (разрешительного документа) о возможности осуществления вывоза коллекционных материалов по минералогии, п</Description>
+  </Document>
+  <Document>
+    <ModeID>1009026E</ModeID>
+    <Name>RosPrirodDangerousWaste</Name>
+    <Description>Ответ на запрос сведений  из заключения на транзит  опасных отходов по таможенной территории Таможенного союза</Description>
+  </Document>
+  <Document>
+    <ModeID>1009027E</ModeID>
+    <Name>RosPrirodPoisonousSubstances</Name>
+    <Description>Ответ на запрос сведений  из заключения на ввоз / вывоз / транзит образцов ядовитых веществ</Description>
+  </Document>
+  <Document>
+    <ModeID>1009028E</ModeID>
+    <Name>RosPrirodSites</Name>
+    <Description>Ответ на запрос разрешения на вывоз из Российской Федерации и ввоз в Российскую Федерацию видов дикой фауны и флоры</Description>
+  </Document>
+  <Document>
+    <ModeID>1009029E</ModeID>
+    <Name>RosPrirodTempOutRedBook</Name>
+    <Description>Ответ на запрос сведений из заключения (разрешения) о возможности временного вывоза диких животных и дикорастущих растений, относящихся к видам,</Description>
+  </Document>
+  <Document>
+    <ModeID>1009030E</ModeID>
+    <Name>RosPrirodTranzitNoDrugs</Name>
+    <Description>Ответ на запрос разрешений на транзит ядовитых веществ, выдаваемые согласно п.13 Положения к разделу 2.13 Единого перечня "О порядке ввоза, выво</Description>
+  </Document>
+  <Document>
+    <ModeID>1009053E</ModeID>
+    <Name>RosstandartVehicleApproval</Name>
+    <Description>Одобрение транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1009031E</ModeID>
+    <Name>RosZdravTranspl</Name>
+    <Description>Ответ на запрос разрешения (заключение) на ввоз костного мозга и гемопоэтических стволовых клеток с целью проведения неродственной трансплантаци</Description>
+  </Document>
+  <Document>
+    <ModeID>1009056E</ModeID>
+    <Name>RPNDecision</Name>
+    <Description>Санитарно-карантинный контроль</Description>
+  </Document>
+  <Document>
+    <ModeID>1009048E</ModeID>
+    <Name>RSPConfirmationTarget</Name>
+    <Description>Подтверждение о целевом назначении товаров ввозимых в рамках международного сотрудничества РФ в области исследования и использования космическог</Description>
+  </Document>
+  <Document>
+    <ModeID>1009039E</ModeID>
+    <Name>RtnRequest</Name>
+    <Description>Сведения из реестра разрешений ОГ/карточек допуска</Description>
+  </Document>
+  <Document>
+    <ModeID>1009040E</ModeID>
+    <Name>RtnUsePermissionsAndCard</Name>
+    <Description>Сведения об использовании разрешений, спецразрешений, карточек допуска и лицензионных карточек</Description>
+  </Document>
+  <Document>
+    <ModeID>1009050E</ModeID>
+    <Name>RZNDesignatedPurpose</Name>
+    <Description>Подтверждение целевого назначения материалов, ввозимых в рамках Соглашения о ввозе материалов образовательного, научного и культурного характера</Description>
+  </Document>
+  <Document>
+    <ModeID>1009049E</ModeID>
+    <Name>RZNMedizd</Name>
+    <Description>Регистрационное удостоверение</Description>
+  </Document>
+  <Document>
+    <ModeID>1030001E</ModeID>
+    <Name>SEM_KTRequest</Name>
+    <Description>Запрос по наличию категорий товаров включенных во внутрисистемный список товаров, запрещенных или ограниченных к перемещению через таможенную гр</Description>
+  </Document>
+  <Document>
+    <ModeID>1030003E</ModeID>
+    <Name>SEM_KTResponse</Name>
+    <Description>Категории товаров включенных во внутрисистемный список товаров, запрещенных или ограниченных к перемещению через таможенную границу РФ</Description>
+  </Document>
+  <Document>
+    <ModeID>1030002E</ModeID>
+    <Name>SEM_OISRequest</Name>
+    <Description>Запрос по наличию объектов интеллектуальной собственности</Description>
+  </Document>
+  <Document>
+    <ModeID>1030004E</ModeID>
+    <Name>SEM_OISResponse</Name>
+    <Description>Объекты интеллектуальной собственности</Description>
+  </Document>
+  <Document>
+    <ModeID>1002027E</ModeID>
+    <Name>ServiceInvoice</Name>
+    <Description>Счет-фактура на оплату услуг по перевозке, погрузке перегрузке/разгрузке товаров и по страхованию товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1009032E</ModeID>
+    <Name>SQ_DocResponse</Name>
+    <Description>Предоставление документа по запросу из ФОИВ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006154E</ModeID>
+    <Name>TransitInfo</Name>
+    <Description>Информация о транзитных товарах</Description>
+  </Document>
+  <Document>
+    <ModeID>1006159E</ModeID>
+    <Name>TransportDeclaration</Name>
+    <Description>Таможенная декларация на транспортное средство</Description>
+  </Document>
+  <Document>
+    <ModeID>1009059E</ModeID>
+    <Name>DrugPurpConfirmPerm</Name>
+    <Description>Подтверждение целевого назначения наркотических лекарственных средств вывозимых из РФ и предназначенных для оказания гуманитарной помощи (содейс</Description>
+  </Document>
+  <Document>
+    <ModeID>1009060E</ModeID>
+    <Name>FOIVRequest</Name>
+    <Description>Запрос (ФОИВ)</Description>
+  </Document>
+  <Document>
+    <ModeID>1009058E</ModeID>
+    <Name>QuaranFitoSanitControl</Name>
+    <Description>Результаты проведения документального карантинного фитосанитарного контроля должностными лицами ФТС России</Description>
+  </Document>
+  <Document>
+    <ModeID>1006819E</ModeID>
+    <Name>RevealingTransportPI</Name>
+    <Description>Сообщение о прибытии/убытии транспортного средства</Description>
+  </Document>
+  <Document>
+    <ModeID>1009057E</ModeID>
+    <Name>InspectionReqRes</Name>
+    <Description>Сведения о необходимости предоставления дополнительных документов и сведений и о возможности принятия решения/Сведения о результатах контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1006163E</ModeID>
+    <Name>IdentifRemovalPermitBan</Name>
+    <Description>Разрешение/Запрет на снятие средств идентификации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006169E</ModeID>
+    <Name>NotifGoodsAcceptTime</Name>
+    <Description>Уведомление о дате и времени принятия товаров от перевозчика</Description>
+  </Document>
+  <Document>
+    <ModeID>1010001E</ModeID>
+    <Name>ActNumberInfo</Name>
+    <Description>Регистрационный номер акта таможенного осмотра</Description>
+  </Document>
+  <Document>
+    <ModeID>1010012E</ModeID>
+    <Name>ActNumberRequest</Name>
+    <Description>Запрос регистрационного номера акта таможенного осмотра</Description>
+  </Document>
+  <Document>
+    <ModeID>1010002E</ModeID>
+    <Name>CompareInfo</Name>
+    <Description>Ссылка на результаты осмотра</Description>
+  </Document>
+  <Document>
+    <ModeID>1010003E</ModeID>
+    <Name>DirectionOnInspection</Name>
+    <Description>Направление на осмотр</Description>
+  </Document>
+  <Document>
+    <ModeID>1010004E</ModeID>
+    <Name>DirectionRegistration</Name>
+    <Description>Уведомление о регистрации ведений из направления на осмотр</Description>
+  </Document>
+  <Document>
+    <ModeID>1010005E</ModeID>
+    <Name>InspectionMetadata</Name>
+    <Description>Результаты осмотра. Метаданные</Description>
+  </Document>
+  <Document>
+    <ModeID>1010006E</ModeID>
+    <Name>OriginalRTIRequest</Name>
+    <Description>Запрос РТИ в оригинальном формате</Description>
+  </Document>
+  <Document>
+    <ModeID>1010007E</ModeID>
+    <Name>PrevInspResultRequest</Name>
+    <Description>Результаты осмотра. Метаданные</Description>
+  </Document>
+  <Document>
+    <ModeID>1010008E</ModeID>
+    <Name>ResultLink</Name>
+    <Description>Ссылка на результаты осмотра</Description>
+  </Document>
+  <Document>
+    <ModeID>1010009E</ModeID>
+    <Name>ScanStartNotification</Name>
+    <Description>Уведомление о начале сканирования</Description>
+  </Document>
+  <Document>
+    <ModeID>1006167E</ModeID>
+    <Name>CheckInventory</Name>
+    <Description>Запрос на сверку описи в ЭАД</Description>
+  </Document>
+  <Document>
+    <ModeID>1006166E</ModeID>
+    <Name>RegNumberActInspection</Name>
+    <Description>Регистрационный номер акт таможенного досмотра/осмотра в АСКТТ-2</Description>
+  </Document>
+  <Document>
+    <ModeID>1004105E</ModeID>
+    <Name>ResponseCheckInventory</Name>
+    <Description>Ответ на запрос на сверку описи в ЭАД</Description>
+  </Document>
+  <Document>
+    <ModeID>1006164E</ModeID>
+    <Name>NotifArrivalIntegritySeal</Name>
+    <Description>Уведомление о прибытии и нарушении пломб</Description>
+  </Document>
+  <Document>
+    <ModeID>1006162E</ModeID>
+    <Name>NotifInfringementGoods</Name>
+    <Description>Уведомление о соответствии/несоответствии товаров заявленным сведениям</Description>
+  </Document>
+  <Document>
+    <ModeID>1006165E</ModeID>
+    <Name>ResultASKTT</Name>
+    <Description>Результат проверки АСКТТ-2</Description>
+  </Document>
+  <Document>
+    <ModeID>1030005E</ModeID>
+    <Name>SEM_SURRequest</Name>
+    <Description>Запрос к сервису СУР</Description>
+  </Document>
+  <Document>
+    <ModeID>1030006E</ModeID>
+    <Name>SEM_SURResponse</Name>
+    <Description>Ответ сервиса СУР</Description>
+  </Document>
+  <Document>
+    <ModeID>1006170E</ModeID>
+    <Name>GTDObligationIN</Name>
+    <Description>Обязательство о подаче таможенной декларации и представлении необходимых документов и сведений (внутренний формат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006168E</ModeID>
+    <Name>TSDecision</Name>
+    <Description>Решение по таможенной стоимости</Description>
+  </Document>
+  <Document>
+    <ModeID>1003407E</ModeID>
+    <Name>ArrivalConfirmation</Name>
+    <Description>Подтверждение о прибытии</Description>
+  </Document>
+  <Document>
+    <ModeID>1006171E</ModeID>
+    <Name>CurrentImportProlong</Name>
+    <Description>Заявление на продление сроков временного ввоза</Description>
+  </Document>
+  <Document>
+    <ModeID>1004107E</ModeID>
+    <Name>GoodSearchRequest</Name>
+    <Description>Запрос о розыске недоставленных товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1004108E</ModeID>
+    <Name>GoodSearchResponse</Name>
+    <Description>Ответ на запрос о розыске недоставленных товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006172E</ModeID>
+    <Name>GoodsTranshipment</Name>
+    <Description>Уведомление о необходимости проведения грузовых операций и/или продлении срока транзита</Description>
+  </Document>
+  <Document>
+    <ModeID>1006175E</ModeID>
+    <Name>InspectorDecision</Name>
+    <Description>Решение должностного лица</Description>
+  </Document>
+  <Document>
+    <ModeID>1004106E</ModeID>
+    <Name>NotifTDRegistration</Name>
+    <Description>Уведомление о регистрации/отказе в регистрации ТД</Description>
+  </Document>
+  <Document>
+    <ModeID>1006174E</ModeID>
+    <Name>TDTSCustomsMark</Name>
+    <Description>Отметки таможенного органа по ТДТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1006173E</ModeID>
+    <Name>TransitDateLimit</Name>
+    <Description>Заявление/уведомление о продлении срока таможенного транзита</Description>
+  </Document>
+  <Document>
+    <ModeID>2002001E</ModeID>
+    <Name>AKTS_History</Name>
+    <Description>Коллекция протоколов АКТС</Description>
+  </Document>
+  <Document>
+    <ModeID>1005015E</ModeID>
+    <Name>ArchPermitParticipantsInfo</Name>
+    <Description>Сведения об иных участниках, имеющих доступ к просмотру документов архива</Description>
+  </Document>
+  <Document>
+    <ModeID>1003311E</ModeID>
+    <Name>GoodsOperationRequest</Name>
+    <Description>Запрос перевозчика в таможенный орган на совершение операций с грузом</Description>
+  </Document>
+  <Document>
+    <ModeID>1003312E</ModeID>
+    <Name>NoticeCanceledFlight</Name>
+    <Description>Уведомление об отмене рейса</Description>
+  </Document>
+  <Document>
+    <ModeID>1003313E</ModeID>
+    <Name>NoticeFlightDeparture</Name>
+    <Description>Уведомление о выполнении международного рейса до планового времени убытия</Description>
+  </Document>
+  <Document>
+    <ModeID>1003314E</ModeID>
+    <Name>UploadGoodsDepartRequest</Name>
+    <Description>Запрос на убытие фактически загруженных на борт товарах</Description>
+  </Document>
+  <Document>
+    <ModeID>1040004E</ModeID>
+    <Name>CustPayment</Name>
+    <Description>Сведения о суммах денежных средств, подлежащих уплате по декларации на товары</Description>
+  </Document>
+  <Document>
+    <ModeID>1040003E</ModeID>
+    <Name>CustPaymentReq</Name>
+    <Description>Запрос сведений о суммах денежных средств, подлежащих уплате по декларации на товары</Description>
+  </Document>
+  <Document>
+    <ModeID>1040001E</ModeID>
+    <Name>PaymentTransactionReport</Name>
+    <Description>Электронный чек подтверждения уплаты</Description>
+  </Document>
+  <Document>
+    <ModeID>1040002E</ModeID>
+    <Name>PaymentTransactionResult</Name>
+    <Description>Сообщение о результатах обработки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006183E</ModeID>
+    <Name>PresentedDocInfoReq</Name>
+    <Description>Запрос информации о разрешительных документах, указанных в графе 44</Description>
+  </Document>
+  <Document>
+    <ModeID>1006184E</ModeID>
+    <Name>PresentedDocInfoRes</Name>
+    <Description>Информация о разрешительных документах, указанных в графе 44</Description>
+  </Document>
+  <Document>
+    <ModeID>1006179E</ModeID>
+    <Name>BDRD_Report</Name>
+    <Description>Отчет по результатам сопоставления сведений из РД и ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006178E</ModeID>
+    <Name>BDRD_Request</Name>
+    <Description>Запрос сведений РД</Description>
+  </Document>
+  <Document>
+    <ModeID>1006176E</ModeID>
+    <Name>NotifFinishRejectOperations</Name>
+    <Description>Уведомление о завершении операций/об отказе в проведении операций в отношении товаров и транспортных средств</Description>
+  </Document>
+  <Document>
+    <ModeID>1006185E</ModeID>
+    <Name>NotifMeasures</Name>
+    <Description>Уведомление о применении меры по минимизации риска</Description>
+  </Document>
+  <Document>
+    <ModeID>1006180E</ModeID>
+    <Name>TransitRevealedRisks</Name>
+    <Description>Результат выявления рисков по информации о транзитных товарах</Description>
+  </Document>
+  <Document>
+    <ModeID>1004109E</ModeID>
+    <Name>CoveringLetter</Name>
+    <Description>Сопроводительное письмо</Description>
+  </Document>
+  <Document>
+    <ModeID>1006181E</ModeID>
+    <Name>RepresentativeApplication</Name>
+    <Description>Заявление таможенного представителя, используемое в качестве пассажирской таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006191E</ModeID>
+    <Name>RepresApplicStatInfo</Name>
+    <Description>Сведения о поставках в адрес физического лица</Description>
+  </Document>
+  <Document>
+    <ModeID>1006182E</ModeID>
+    <Name>RepresApplicCustomsMark</Name>
+    <Description>Таможенные отметки Заявления таможенного представителя</Description>
+  </Document>
+  <Document>
+    <ModeID>1001104E</ModeID>
+    <Name>CustomsRegistryCertificate</Name>
+    <Description>Свидетельство о включении в реестр уполномоченных экономических операторов/таможенных перевозчиков/владельцев СВХ/владельцев магазинов беспошлин</Description>
+  </Document>
+  <Document>
+    <ModeID>1050001E</ModeID>
+    <Name>GuaranteeCalculationInquiry</Name>
+    <Description>Запрос на расчет сумм обеспечения уплаты таможенных пошлин, налогов</Description>
+  </Document>
+  <Document>
+    <ModeID>1050002E</ModeID>
+    <Name>GuaranteeCalculationResult</Name>
+    <Description>Результат расчета сумм обеспечения уплаты таможенных пошлин, налогов</Description>
+  </Document>
+  <Document>
+    <ModeID>1050007E</ModeID>
+    <Name>GuaranteeDocReqRes</Name>
+    <Description>Запрос/Информация о документе обеспечения</Description>
+  </Document>
+  <Document>
+    <ModeID>1050003E</ModeID>
+    <Name>GuaranteeUsage</Name>
+    <Description>Запрос на резервирование денежных средств/Сведения по использованию гарантии</Description>
+  </Document>
+  <Document>
+    <ModeID>1006186E</ModeID>
+    <Name>LiquidationApplication</Name>
+    <Description>Заявление на уничтожение пришедших в негодность товаров и (или) упаковки на территории ОЭЗ или вывоз таких товаров и (или) упаковки с территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1006203E</ModeID>
+    <Name>LiquidationApplicationIn</Name>
+    <Description>Заявление на уничтожение пришедших в негодность товаров и (или) упаковки на территории ОЭЗ или вывоз таких товаров и (или) упаковки с территории</Description>
+  </Document>
+  <Document>
+    <ModeID>1006188E</ModeID>
+    <Name>LiquidationAct</Name>
+    <Description>Акт об уничтожении</Description>
+  </Document>
+  <Document>
+    <ModeID>1006204E</ModeID>
+    <Name>LiquidationActIn</Name>
+    <Description>Акт об уничтожении (Внутренний формат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006189E</ModeID>
+    <Name>LiquidationActCustomsMark</Name>
+    <Description>Таможенные отметки к акту об уничтожении</Description>
+  </Document>
+  <Document>
+    <ModeID>1006187E</ModeID>
+    <Name>LiquidationCustomsMark</Name>
+    <Description>Отметки таможенного органа на Заявлении об уничтожении товаров и (или) упаковки, пришедших в негодность</Description>
+  </Document>
+  <Document>
+    <ModeID>1006190E</ModeID>
+    <Name>LiquidationDocumentReq</Name>
+    <Description>Запрос о представлении недостающих документов и сведений</Description>
+  </Document>
+  <Document>
+    <ModeID>1006194E</ModeID>
+    <Name>MovementConfirmation</Name>
+    <Description>Уведомление о фактическом ввозе/вывозе товара</Description>
+  </Document>
+  <Document>
+    <ModeID>1006177E</ModeID>
+    <Name>MPO_Declaration</Name>
+    <Description>Таможенная декларация товаров, пересылаемых в МПО</Description>
+  </Document>
+  <Document>
+    <ModeID>1006193E</ModeID>
+    <Name>OEZ_PermitApplication</Name>
+    <Description>Заявление на получение разрешения на ввоз/вывоз товаров на (с) территорию (ии) ПОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1006820E</ModeID>
+    <Name>PI_Consignment</Name>
+    <Description>Предварительная информация о партии товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006821E</ModeID>
+    <Name>PI_TIAuto</Name>
+    <Description>Предварительная информация в отношении временно ввозимых физическими лицами авто-, мототранспортных средств для личного пользования</Description>
+  </Document>
+  <Document>
+    <ModeID>1003006E</ModeID>
+    <Name>PostalManifest</Name>
+    <Description>Почтовый манифест</Description>
+  </Document>
+  <Document>
+    <ModeID>1006196E</ModeID>
+    <Name>CustomsRepresContract</Name>
+    <Description>Договор таможенного представителя с декларантом</Description>
+  </Document>
+  <Document>
+    <ModeID>1006198E</ModeID>
+    <Name>MPOCustomsMark</Name>
+    <Description>Решение по МПО</Description>
+  </Document>
+  <Document>
+    <ModeID>1006195E</ModeID>
+    <Name>NotifInspectionEnd</Name>
+    <Description>Уведомление о завершении фактического контроля товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006197E</ModeID>
+    <Name>NotifMPORegistration</Name>
+    <Description>Уведомление о регистрации МПО</Description>
+  </Document>
+  <Document>
+    <ModeID>1006192E</ModeID>
+    <Name>ProlongCancelNotif</Name>
+    <Description>Обращение на продление срока/на аннулирование</Description>
+  </Document>
+  <Document>
+    <ModeID>1003209E</ModeID>
+    <Name>ArrivalDepartCargoDecl</Name>
+    <Description>Декларация о грузе при приходе/отходе судна</Description>
+  </Document>
+  <Document>
+    <ModeID>1006199E</ModeID>
+    <Name>MeasuringProtocol</Name>
+    <Description>Протокол выполнения измерений круглых лесоматериалов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006202E</ModeID>
+    <Name>TPO</Name>
+    <Description>Таможенный приходный ордер (ТПО)</Description>
+  </Document>
+  <Document>
+    <ModeID>1009063E</ModeID>
+    <Name>HumanitarianTechAid</Name>
+    <Description>Удостоверение о признании средств, товаров, работ и услуг гуманитарной помощью/технической помощью (содействием)</Description>
+  </Document>
+  <Document>
+    <ModeID>1009061E</ModeID>
+    <Name>InfoRequest</Name>
+    <Description>Запрос сведений из удостоверения допуска к осуществлению международных автомобильных перевозок/из реестра лицензий на деятельность по перевозкам</Description>
+  </Document>
+  <Document>
+    <ModeID>1009066E</ModeID>
+    <Name>LegalEntityInfo</Name>
+    <Description>Краткие сведения по юр. лицу/Сведения об учете организации в налоговом органе по месту нахождения ее обособленного подразделения/Выписка о юр. л</Description>
+  </Document>
+  <Document>
+    <ModeID>1009069E</ModeID>
+    <Name>MediaCertificate</Name>
+    <Description>Информация из свидетельств СМИ</Description>
+  </Document>
+  <Document>
+    <ModeID>1009068E</ModeID>
+    <Name>OilProductionConfirmation</Name>
+    <Description>Результат обработки запроса на выдачу из приказов Минэнерго России и писем, подтверждающих факт добычи нефти с определенными физико-химическими</Description>
+  </Document>
+  <Document>
+    <ModeID>1009067E</ModeID>
+    <Name>PreviousConviction</Name>
+    <Description>Сведения о наличии судимости у руководителя и сотрудников юридического лица</Description>
+  </Document>
+  <Document>
+    <ModeID>1009070E</ModeID>
+    <Name>RealEstateExcerpt</Name>
+    <Description>Запрос сведений из Единого государственного реестра прав на недвижимое имущество и сделок с ним</Description>
+  </Document>
+  <Document>
+    <ModeID>1009071E</ModeID>
+    <Name>RealEstateResponse</Name>
+    <Description>Выписка из Единого государственного реестра прав на объект недвижимого имущества и сделок с ним</Description>
+  </Document>
+  <Document>
+    <ModeID>1009062E</ModeID>
+    <Name>RegConfirmDocRequest</Name>
+    <Description>Запрос сведений из лицензии на осуществление перевозок воздушным транспортом грузов и пассажиров для юр. лица/о регистрационных удостоверениях н</Description>
+  </Document>
+  <Document>
+    <ModeID>1009065E</ModeID>
+    <Name>RosPatentRes</Name>
+    <Description>Сведения из Госреестра товарных знаков и знаков обслуживания/из Перечня общеизвестных в РФ товарных знаков/из Госреестра наименований мест проис</Description>
+  </Document>
+  <Document>
+    <ModeID>1009072E</ModeID>
+    <Name>RosTrudConfirmation</Name>
+    <Description>Подтверждение Федеральной службы по труду и занятости  целевого назначения материалов и предметов для слепых и других лиц с физическими или умст</Description>
+  </Document>
+  <Document>
+    <ModeID>1009064E</ModeID>
+    <Name>ServiceLicense</Name>
+    <Description>Сведения из лицензии на осуществление перевозок воздушным транспортом грузов и пассажиров для юр. лиц/из реестра сертификатов на обслуживание и</Description>
+  </Document>
+  <Document>
+    <ModeID>1008028E</ModeID>
+    <Name>CommercialAct</Name>
+    <Description>Коммерческий акт - документ, составленный владельцем СВХ в связи с выявлением несоответствий товаров, находящихся на временном хранении, сведени</Description>
+  </Document>
+  <Document>
+    <ModeID>1008029E</ModeID>
+    <Name>MistakeLetter</Name>
+    <Description>Письмо владельца СВХ о самостоятельно выявленных ошибках в отчетности по форме ДО-1</Description>
+  </Document>
+  <Document>
+    <ModeID>1006205E</ModeID>
+    <Name>FactPresenceRequest</Name>
+    <Description>Запрос о факте наличия товаров (о факте совершения таможенных операций, необходимых для завершения таможенного транзита/Запрос информации о разр</Description>
+  </Document>
+  <Document>
+    <ModeID>1006206E</ModeID>
+    <Name>ClassDecisionChange</Name>
+    <Description>Решение об изменении решения по классификации товара</Description>
+  </Document>
+  <Document>
+    <ModeID>1004110E</ModeID>
+    <Name>GraphicDocRequest</Name>
+    <Description>Обращение за разрешением представить документы в виде графических документов</Description>
+  </Document>
+  <Document>
+    <ModeID>1006208E</ModeID>
+    <Name>DeclarationStatus</Name>
+    <Description>Актуализированные сведения о состоянии таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1004111E</ModeID>
+    <Name>DocumentRegNumberNotif</Name>
+    <Description>Уведомление о регистрации документа (пакета документов)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006207E</ModeID>
+    <Name>GuaranteeUnacceptanceNotif</Name>
+    <Description>Уведомление о невозможности использования обеспечения</Description>
+  </Document>
+  <Document>
+    <ModeID>1030007E</ModeID>
+    <Name>SEM_NIRequest</Name>
+    <Description>Запрос по сервису NI</Description>
+  </Document>
+  <Document>
+    <ModeID>1030008E</ModeID>
+    <Name>SEM_NIResponse</Name>
+    <Description>Ответ сервиса NI</Description>
+  </Document>
+  <Document>
+    <ModeID>1006210E</ModeID>
+    <Name>DeclChangeDecision</Name>
+    <Description>Решение о внесении изменений (дополнений) в сведения, указанные в декларации на товары</Description>
+  </Document>
+  <Document>
+    <ModeID>1004112E</ModeID>
+    <Name>NotifReservation</Name>
+    <Description>Уведомление о резервировании/о невозможности резервирования суммы обеспечения</Description>
+  </Document>
+  <Document>
+    <ModeID>1006200E</ModeID>
+    <Name>RepresApplicChange</Name>
+    <Description>Заявление о внесении изменений в реестр товаров для личного пользования</Description>
+  </Document>
+  <Document>
+    <ModeID>1004115E</ModeID>
+    <Name>DeclChangeRequest</Name>
+    <Description>Обращение декларанта о внесении изменений (дополнений) в таможенную декларацию</Description>
+  </Document>
+  <Document>
+    <ModeID>1004113E</ModeID>
+    <Name>PayerReceipt</Name>
+    <Description>Квитанция плательщика</Description>
+  </Document>
+  <Document>
+    <ModeID>1006215E</ModeID>
+    <Name>RefusalInFavorOfStateApplic</Name>
+    <Description>Заявление на помещение товаров под таможенную процедуру отказа в пользу государства</Description>
+  </Document>
+  <Document>
+    <ModeID>1004116E</ModeID>
+    <Name>GuaranteeContractAmount</Name>
+    <Description>Предоставление общей суммы денежных средств по банковской гарантии</Description>
+  </Document>
+  <Document>
+    <ModeID>1006216E</ModeID>
+    <Name>DTRevealedRisks</Name>
+    <Description>Результат выявления рисков по ДТ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004117E</ModeID>
+    <Name>NotifTobaccoPrices</Name>
+    <Description>Уведомление о розничных ценах на табачные изделия, ввозимые в РФ</Description>
+  </Document>
+  <Document>
+    <ModeID>1004114E</ModeID>
+    <Name>PaymentConfirmDocs</Name>
+    <Description>Сведения о платежных документах, подтверждающих уплату таможенных платежей</Description>
+  </Document>
+  <Document>
+    <ModeID>1051001E</ModeID>
+    <Name>DecisionCustomExpertise</Name>
+    <Description>Решение о проведении таможенной экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1051002E</ModeID>
+    <Name>ExpertiseResult</Name>
+    <Description>Сведения по результатам проведенной таможенной экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1051003E</ModeID>
+    <Name>ExpertSummary</Name>
+    <Description>Заключение эксперта</Description>
+  </Document>
+  <Document>
+    <ModeID>1051004E</ModeID>
+    <Name>ReqCorrectedDecision</Name>
+    <Description>Требование на корректировку сведений, заявленных в решении о проведении таможенной экспертизы</Description>
+  </Document>
+  <Document>
+    <ModeID>1051005E</ModeID>
+    <Name>ResolutionHeadExpertDepartment</Name>
+    <Description>Резолюция начальника ЭКС</Description>
+  </Document>
+  <Document>
+    <ModeID>1004118E</ModeID>
+    <Name>ApplicationForExciseStamps</Name>
+    <Description>Заявление о выдаче акцизных марок</Description>
+  </Document>
+  <Document>
+    <ModeID>1004119E</ModeID>
+    <Name>CustomsBrokerReport</Name>
+    <Description>Отчет о деятельности таможенного представителя</Description>
+  </Document>
+  <Document>
+    <ModeID>1006160E</ModeID>
+    <Name>TransportDeclaration_CU</Name>
+    <Description>Электронная копия таможенной декларации на транспортное средство</Description>
+  </Document>
+  <Document>
+    <ModeID>1006161E</ModeID>
+    <Name>ConclusionOEZIdentify</Name>
+    <Description>Заключение о выбранном способе идентификации товаров, ввозимых  (ввезенных) на территорию ОЭЗ</Description>
+  </Document>
+  <Document>
+    <ModeID>1009073E</ModeID>
+    <Name>CultTargetPurpose</Name>
+    <Description>Подтверждение целевого назначения материалов, ввозимых в рамках Соглашения о ввозе материалов образовательного, научного и культурного характера</Description>
+  </Document>
+  <Document>
+    <ModeID>1006218E</ModeID>
+    <Name>EBVRRequest</Name>
+    <Description>Тип, описывающий запрос в ЕБВР</Description>
+  </Document>
+  <Document>
+    <ModeID>1006219E</ModeID>
+    <Name>EBVRResult</Name>
+    <Description>Тип, описывающий результат поиска в ЕБВР</Description>
+  </Document>
+  <Document>
+    <ModeID>1004121E</ModeID>
+    <Name>LicenseAlcoholDocuments</Name>
+    <Description>Список лицензий работу с алкогольной продукцией</Description>
+  </Document>
+  <Document>
+    <ModeID>1006220E</ModeID>
+    <Name>RefusalCustomsMark</Name>
+    <Description>Таможенные отметки к заявлению на помещение товаров под таможенную процедуру отказа в пользу государства</Description>
+  </Document>
+  <Document>
+    <ModeID>1006221E</ModeID>
+    <Name>RefusalInFavorOfStateApplicIn</Name>
+    <Description>Заявление на помещение товаров под таможенную процедуру отказа в пользу государства (Внутренний формат)</Description>
+  </Document>
+  <Document>
+    <ModeID>1004120E</ModeID>
+    <Name>ReqAfterHours</Name>
+    <Description>Разрешение о проведении операций вне графика рабочего времени, установленного таможенным органом</Description>
+  </Document>
+  <Document>
+    <ModeID>1004122E</ModeID>
+    <Name>ReqLicenseAlcohol</Name>
+    <Description>Тип информации о запросе информации о лицензии</Description>
+  </Document>
+  <Document>
+    <ModeID>1006217E</ModeID>
+    <Name>RiskMSGInfo</Name>
+    <Description>Тип, описывающий информацию для создания сообщения в ЕБВР</Description>
+  </Document>
+  <Document>
+    <ModeID>1050008E</ModeID>
+    <Name>GuaranteeCalcClarification</Name>
+    <Description>Запрос на уточнение параметров расчета Обеспечения/ Сведения об уточненных параметрах расчета Обеспечения</Description>
+  </Document>
+  <Document>
+    <ModeID>1009074E</ModeID>
+    <Name>InspectionReqResFITO</Name>
+    <Description>Сведения о фитосанитарном контроле</Description>
+  </Document>
+  <Document>
+    <ModeID>1006222E</ModeID>
+    <Name>MPORelease</Name>
+    <Description>Сведения о выдаче МПО получателю</Description>
+  </Document>
+  <Document>
+    <ModeID>1006209E</ModeID>
+    <Name>PIRWInformationCU</Name>
+    <Description>Предварительная информация о товарах, ввозимых на таможенную территорию Евразийского экономического союза железнодорожным транспортом</Description>
+  </Document>
+  <Document>
+    <ModeID>1003408E</ModeID>
+    <Name>RailwayBillFinn</Name>
+    <Description>Накладная российско-финляндского прямого железнодорожного сообщения (тип)</Description>
+  </Document>
+  <Document>
+    <ModeID>1040006E</ModeID>
+    <Name>TransactionInfo</Name>
+    <Description>Сведения о движении денежных средств на лицевом счете владельца таможенной карты</Description>
+  </Document>
+  <Document>
+    <ModeID>1040005E</ModeID>
+    <Name>TransInfoReq</Name>
+    <Description>Запрос о движении денежных средств на лицевом счете владельца таможенной карты</Description>
+  </Document>
+  <Document>
+    <ModeID>1006901E</ModeID>
+    <Name>ActAuditCameral</Name>
+    <Description>Акт камеральной таможенной проверки</Description>
+  </Document>
+  <Document>
+    <ModeID>1006902E</ModeID>
+    <Name>DecisionCustomsAudit</Name>
+    <Description>Решение по результатам таможенной проверки (тип)</Description>
+  </Document>
+  <Document>
+    <ModeID>1004123E</ModeID>
+    <Name>MPOControl</Name>
+    <Description>Запросы по МПО</Description>
+  </Document>
+  <Document>
+    <ModeID>1004124E</ModeID>
+    <Name>NotifRemoteStart</Name>
+    <Description>Информация о применении технологии удаленного выпуска</Description>
+  </Document>
+  <Document>
+    <ModeID>1006900E</ModeID>
+    <Name>ReqDoc4Audit</Name>
+    <Description>Требование о представлении документов и сведений при камеральной таможенной проверке (тип)</Description>
+  </Document>
+  <Document>
+    <ModeID>1003409E</ModeID>
+    <Name>RwBillExtract</Name>
+    <Description>Транспортный, товаросопроводительный документ (железнодорожная накладная), используемый для налоговых целей (тип)</Description>
+  </Document>
+  <Document>
+    <ModeID>1006068E</ModeID>
+    <Name>STZ_Report</Name>
+    <Description>Отчёт о товарах, помещенных по таможенную процедуру СТЗ на ТОСЭР и товарах, произведенных с их использованием</Description>
+  </Document>
+  <Document>
+    <ModeID>1003103E</ModeID>
+    <Name>AutoBill</Name>
+    <Description>Транспортная накладная</Description>
+  </Document>
+
+  <Document>
+    <ModeID>1003410E</ModeID>
+    <Name>NotifFactDeparture</Name>
+    <Description>Уведомление о фактическом убытии железнодорожного состава </Description>
+  </Document>
+  <Document>
+    <ModeID>1004125E</ModeID>
+    <Name>GuaranteeKind</Name>
+    <Description>Уведомление о выбранном способе обеспечения</Description>
+  </Document>
+  <Document>
+    <ModeID>1004126E</ModeID>
+    <Name>ChangeRoute</Name>
+    <Description>Заявление на изменение маршрута </Description>
+  </Document>
+  <Document>
+    <ModeID>1004127E</ModeID>
+    <Name>PassengerUIN</Name>
+    <Description>Уведомление о присвоении ПТД предварительного номера</Description>
+  </Document>
+  <Document>
+    <ModeID>1004128E</ModeID>
+    <Name>ProvidingIndicationDocuments</Name>
+    <Description>Лист контроля однократности предоставления документов при декларировании</Description>
+  </Document>
+  <Document>
+    <ModeID>1004129E</ModeID>
+    <Name>ScanAttributeDocuments</Name>
+    <Description>Сканированный документ</Description>
+  </Document>
+  <Document>
+    <ModeID>1005016E</ModeID><Name>ArchResult</Name><Description></Description>Результат обработки сообщения / выполнения операции в ЭАД
+  </Document>
+  <Document>
+    <ModeID>1006069E</ModeID>
+    <Name>DecisionAboutViolationIntellectRights</Name>
+    <Description>Информация о товарах с признаками возможного нарушении прав интеллектуальной собственности и принятом решении относительно приостановлении их выпуска</Description>
+  </Document>
+  <Document>
+    <ModeID>1006070E</ModeID>
+    <Name>AnswerOwnerIntellectRights</Name>
+    <Description>Ответ правообладателя о разрешении выпуска/запрете выпуска/продлении приостановления выпуска товаров с признаками возможного нарушении прав интеллектуальной собственности </Description>
+  </Document>
+  <Document>
+    <ModeID>1006223E</ModeID>
+    <Name>TOR_NotifOutConditions</Name>
+    <Description>Уведомление о невыполнении условий вывоза с ТОСЭР</Description>
+  </Document>
+  <Document>
+    <ModeID>1006224E</ModeID>
+    <Name>TOR_DepartureTransport</Name>
+    <Description>Сведения о транспортном средстве с КПП ТОСЭР</Description>
+  </Document>
+  <Document>
+    <ModeID>1006225E</ModeID>
+    <Name>MPO_Violation</Name>
+    <Description>Акт по форме 51 к МПО  </Description>
+  </Document>
+  <Document>
+    <ModeID>1006229E</ModeID>
+    <Name>ConclusionTPPIdentify</Name>
+    <Description>Заключение об идентификации иностранных товаров, помещенных под таможенную процедуру свободной таможенной зоны, в товарах, изготовленных (полученных) на территории Калининградской области с использованием таких иностранных товаров</Description>
+  </Document>
+  <Document>
+    <ModeID>1006230E</ModeID>
+    <Name>PassengerCDBasicDocument</Name>
+    <Description>Пассажирская таможенная декларация. Основной формуляр.</Description>
+  </Document>
+  <Document>
+    <ModeID>1006231E</ModeID>
+    <Name>PassengerCDAdditionalDocument</Name>
+    <Description>Пассажирская таможенная декларация. Дополнительный формуляр "Декларация наличных денег и(или) денежных инструментов".</Description>
+  </Document>
+  <Document>
+    <ModeID>1006232E</ModeID>
+    <Name>PassengerCDMark</Name>
+    <Description>Решение по пассажирской таможенной декларации</Description>
+  </Document>
+  <Document>
+    <ModeID>1006233E</ModeID>
+    <Name>RegisterMPO</Name>
+    <Description>Реестр экспортируемых международных почтовых отправлени</Description>
+  </Document>
+  <Document>
+    <ModeID>1006234E</ModeID>
+    <Name>PassengerCDCalc</Name>
+    <Description>Пассажирская таможенная декларация. Расчет платежей </Description>
+  </Document>
+  <Document>
+    <ModeID>1006822E</ModeID>
+    <Name>PI_AirArrive_Short</Name>
+    <Description>Уведомления о планируемых рейсах</Description>
+  </Document>
+  <Document>
+    <ModeID>1006903E</ModeID>
+    <Name>PI_NoCustoms</Name>
+    <Description>Предварительное уведомление о прибытии товаров c целью проведения иных видов контроля</Description>
+  </Document>
+  <Document>
+    <ModeID>1008030E</ModeID>
+    <Name>WHContractInfo</Name>
+    <Description>Информирование ТО о заключенном договоре на ВХ</Description>
+  </Document>
+  <Document>
+    <ModeID>1008031E</ModeID>
+    <Name>WHContractCloseInfo</Name>
+    <Description>Информирование ТО о прекращении действия ранее заключенного договора на ВХ</Description>
+  </Document>
+  <Document>
+    <ModeID>1050004E</ModeID>
+    <Name>GuaranteeBank</Name>
+    <Description>Решение по электронной банковской гарантии (ЭБГ) </Description>
+  </Document>
+  <Document>
+    <ModeID>1050009E</ModeID>
+    <Name>GuaranteeCustomsReceipt</Name>
+    <Description>Таможенная расписка / сведения для формирования ТР</Description>
+  </Document>
+  <Document>
+    <ModeID>1051006E</ModeID>
+    <Name>ExpertiseInformation</Name>
+    <Description>Информация об экспертно-исследовательской работе</Description>
+  </Document>
+  <Document>
+    <ModeID>3006801E</ModeID>
+    <Name>PIAirInformationCU</Name>
+    <Description>Предварительная информация о товарах, ввозимых на таможенную территорию Евразийского экономического союза воздушным транспортом</Description>
+  </Document>
+</Documents>
