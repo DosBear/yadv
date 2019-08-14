@@ -13,17 +13,7 @@ namespace yadv.ViewModels
     class MainViewModel : BaseVM
     {
 
-        private int _Clicks;
-
-        public int Clicks
-        {
-            get { return _Clicks; }
-            set
-            {
-                _Clicks = value;
-                OnPropertyChanged(nameof(Clicks));
-            }
-        }
+    
 
         private string _FileName;
 
